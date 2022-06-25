@@ -15,8 +15,8 @@ this is a paragraph
 SomeRuby.find_by(uuid: uuid)
 ```
 
-```js
-someJavaScript = "some JS";
+```javascript
+const someJavaScript = "some JS";
 ```
 
 > #### Information
