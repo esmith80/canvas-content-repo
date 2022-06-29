@@ -1,0 +1,10 @@
+---
+:name: Test Building Course
+:course_code: TEST-GEM-COURSE
+:modules:
+  - :id: 1111
+    :name: Module 1
+    :lessons:
+      - title: Lesson 1
+        type: Page
+        repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/001__Code%20of%20Conduct__Reading.md
