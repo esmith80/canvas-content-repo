@@ -1,10 +1,9 @@
 ---
-:name: Test Building Course
-:course_code: TEST-GEM-COURSE
+:name: My TEST COURSE Part II
+:course_code: TEST-COURSE-TWO
 :modules:
-  - :id: 1111
-    :name: Module 1
-    :lessons:
-      - title: Lesson 1
-        type: Page
-        repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/001__Code%20of%20Conduct__Reading.md
+- :name: Test Module 1
+  :lessons:
+  - title: heading 1 Test lesson in README file
+    type: Page
+    repository: https://github.com/esmith80/canvas-content-repo
