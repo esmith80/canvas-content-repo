@@ -1,0 +1,13 @@
+---
+name: "Time Series"
+uuid: fb0c171f-3935-4607-a943-f1f3ec01ad37
+duration: 240
+---
+
+In this challenge, we will review everything we have learned recently and apply it to a new dataset.
+
+## Challenge
+
+> #### Instruction
+> Use [**the same repository**](https://github.com/lighthouse-labs/time_series_exercise) from earlier and follow the instructions in the notebook `time_series_challenge.ipynb`.
+
