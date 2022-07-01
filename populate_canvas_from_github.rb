@@ -18,7 +18,7 @@ def create_lessons
 end
 
 def lesson_type
-    if @path.downcase.include?('note.md') || @path.downcase.include?('outline.md')
+    if @path.downcase.include?('note.md') || @path.downcase.include?('outline.md') || @path.downcase.include?('lecture.md') || @path.downcase.include?('breakout.md')
         'Page'
     else
         'Assignment'
@@ -33,12 +33,8 @@ def lesson_name
     name = name.gsub(/%3F/, '?')
     # HACKY - turn 's in to "is a" having a single quote in the cmd is causing grief (isn't there a better way?)
     name = name.gsub(/%27s/, '\ is')
-    if lesson_type === 'Assignment'
-      activity_type = path_parts[-1].sub('.md','')
-      name + '\ -\ ' + activity_type
-    else
-      name
-    end
+    activity_type = path_parts[-1].sub('.md','')
+    name + '\ -\ ' + activity_type
 end
 
 def clean_path(path)

@@ -1,1 +1,7 @@
-https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/007__So%20what%27s%20a%20gist%2C%20anyway?__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/002__The Dev Workflow__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/003__Organizing Our Code__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/003__Organizing Our Code__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/040__Lotide Assignment __Note.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/041__Pair Programming__Note.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/007__So what's a gist, anyway?__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Data/Analysis in Spreadsheets/25__In Class Activity: Inspecting Your Data__Walkthrough.md
