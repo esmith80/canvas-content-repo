@@ -29,7 +29,8 @@ def file_name
 end
 
 def clean_path(path)
-  path = path.sub(/\n/,'')    
+  path = path.sub(/\n/,'')
+      
 end
 
 
