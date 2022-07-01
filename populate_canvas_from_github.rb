@@ -1,13 +1,12 @@
-require 'cgi'
-
 def create_lessons
-  # puts "Enter a filename in the current directory that contains a list of github URLs: "
-  # file_path = gets.chomp
-  # puts "Enter the course ID (int):"
-  # course_id = gets.chomp
-
-  file_path = 'short_filenames.txt'
-  course_id = 3
+  puts "Enter a filename in the current directory that contains a list of github URLs: "
+  file_path = gets.chomp
+  puts "Enter the course ID (int):"
+  course_id = gets.chomp
+  
+  # for quick tests, uncomment this and comment out above
+  # file_path = 'short_filenames.txt'
+  # course_id = 3
 
   File.open(file_path.to_s, 'r') do |f|
     f.each_line do |path|  
@@ -33,7 +32,13 @@ def lesson_name
     name = path_parts[-2].gsub('%20', '\ ')
     name = name.gsub(/%3F/, '?')
     # HACKY - turn 's in to "is a" having a single quote in the cmd is causing grief (isn't there a better way?)
-    name = name.gsub(/%27s/, '\ is\ a')
+    name = name.gsub(/%27s/, '\ is')
+    if lesson_type === 'Assignment'
+      activity_type = path_parts[-1].sub('.md','')
+      name + '\ -\ ' + activity_type
+    else
+      name
+    end
 end
 
 def clean_path(path)
