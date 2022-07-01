@@ -1,4 +1,6 @@
-def read_github_file
+require 'cgi'
+
+def create_lessons
   puts "Enter a filename in the current directory that contains a list of github URLs: "
   file_path = gets.chomp
   puts "Enter the course ID (int):"
@@ -30,8 +32,11 @@ end
 
 def clean_path(path)
   path = path.sub(/\n/,'')
-      
+  path = URI.escape(path)
+  # URI.escape doesn't remove single quotes or question marks
+  path = path.gsub(/'/, '%27')
+  path.gsub(/\?/, '%3F')
 end
 
 
-read_github_file
+create_lessons
