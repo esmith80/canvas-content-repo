@@ -1,11 +1,6 @@
----
-uuid: 5a4aafb4-b483-4db6-8fa3-0b81ef347836
-duration: 120
----
-
 _Welcome to Lighthouse Labs!_
 
-This is your very first class/lecture. It will help you get acquainted with everything and everyone, as well as set some expectations.
+This is your very first class. It will help you get acquainted with everything and everyone, as well as set some expectations.
 
 ## Topics
 

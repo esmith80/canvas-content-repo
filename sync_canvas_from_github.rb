@@ -14,7 +14,7 @@ def update_lessons
     f.each_line do |path|  
       @path = clean_path(path)
       # is there a flag for submission type?
-      cmd = "github-to-canvas --align-from-github #{@path} --course #{@course_id} --id #{lesson_id} --type #{lesson_type} -lr --forkable"
+      cmd = "github-to-canvas --align-from-github #{@path} --course #{@course_id} --id #{lesson_id} --type #{lesson_type} --name #{lesson_name} -lr --forkable"
       system(cmd)
     end
   end
@@ -42,8 +42,20 @@ end
 
 def lesson_id
   path_parts = @path.split('/')
-  lesson_id = path_parts[-3].to_i
-  860
+  id = path_parts[-3].to_i
+  
+  # hardcoded demo data
+  id = if @path.include?('001')
+        'welcome-and-introductions-lecture'
+       elsif @path.include?('002')
+         'the-dev-workflow-lecture'
+       elsif @path.include?('003')
+          870
+       elsif @path.include?('009')
+          860
+       else
+         nil
+       end
 end
 
 def clean_path(path)
@@ -56,17 +68,17 @@ def clean_path(path)
 end
 
 def prompt_user
-  puts "Enter a filename in the current directory that contains a list of github URLs: "
-  @file_path = gets.chomp
-  puts "Enter the course ID (int):"
-  @course_id = gets.chomp
+  # puts "Enter a filename in the current directory that contains a list of github URLs: "
+  # @file_path = gets.chomp
+  # puts "Enter the course ID (int):"
+  # @course_id = gets.chomp
+  # puts "Do you want to CREATE or UPDATE (c/u)?"
+  # operation = gets.chomp
   
   # for quick tests, uncomment this and comment out above
-  # @file_path = 'github_filenames_web.txt'
-  # @course_id = 6
-
-  puts "Do you want to CREATE or UPDATE (c/u)?"
-  operation = gets.chomp
+  @file_path = 'github_filenames_web copy.txt'
+  @course_id = 12
+  operation = 'u'
 
   operation == 'c' ? create_lessons : update_lessons
 end
