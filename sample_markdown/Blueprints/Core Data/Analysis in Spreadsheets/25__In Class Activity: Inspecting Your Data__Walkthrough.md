@@ -1,11 +1,5 @@
 ## Download the Data
 
-HERES A FINAL CHANGE for this one, i'll do nothing but WAIT for 10 min.
-
-goboboaoijaosdifjpasodfijaspodfi HEREIS ANOTHER FEW WORDS
-
-In this activity, you're going to... do a bunch of stuff. First you'll read some instructions then you'll do stuff using your brain and your computer.
-
 > #### Instruction
 > If you haven't already, download the YouTube data set introduced in class [here](http://bit.ly/lhl-youtube)
 
