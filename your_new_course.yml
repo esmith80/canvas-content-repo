@@ -13,7 +13,6 @@
     url: http://canvas.docker/api/v1/courses/3/assignments/482
     published: false
     repository: "https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Data/Analysis%20in%20Spreadsheets/25__In%20Class%20Activity:%20Inspecting%20Your%20Data__Walkthrough.md"
-  
   - id: '479'
     title: Organizing Our Code - Walkthrough
     indent: 0
