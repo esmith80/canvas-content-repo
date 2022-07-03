@@ -43,7 +43,7 @@ end
 def lesson_id
   path_parts = @path.split('/')
   lesson_id = path_parts[-3].to_i
-  870
+  860
 end
 
 def clean_path(path)

@@ -1,9 +1,3 @@
----
-uuid: 1d7a7164-19ef-4e27-92bb-3d5bb7a2b047
-duration: 15
-tags: node,bash
----
-
 We've just written some code to solve a problem, which is great. However, writing a working solution is only half the battle (many would say it's _much_ less than half)! Let's talk about and work on _some_ of the other half, then.
 
 When we're working within a team of developers, we all need to agree on conventions. Code quality and consistency are important. Otherwise, with each developer bringing their own conventions, the product codebase will look messy and confusing.
