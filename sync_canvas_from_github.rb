@@ -1,17 +1,20 @@
 def create_lessons
-  puts "Enter a filename in the current directory that contains a list of github URLs: "
-  file_path = gets.chomp
-  puts "Enter the course ID (int):"
-  course_id = gets.chomp
-  
-  # for quick tests, uncomment this and comment out above
-  # file_path = 'short_filenames.txt'
-  # course_id = 3
-
   File.open(file_path.to_s, 'r') do |f|
     f.each_line do |path|  
       @path = clean_path(path)
+      # is there a flag for submission type?
       cmd = "github-to-canvas --create-from-github #{@path} --course #{course_id} --type #{lesson_type} --name #{lesson_name} -lr --forkable"
+      system(cmd)
+    end
+  end
+end
+
+def update_lessons
+  File.open(@file_path.to_s, 'r') do |f|
+    f.each_line do |path|  
+      @path = clean_path(path)
+      # is there a flag for submission type?
+      cmd = "github-to-canvas --align-from-github #{@path} --course #{@course_id} --id #{lesson_id} --type #{lesson_type} -lr --forkable"
       system(cmd)
     end
   end
@@ -37,6 +40,12 @@ def lesson_name
     name + '\ -\ ' + activity_type
 end
 
+def lesson_id
+  path_parts = @path.split('/')
+  lesson_id = path_parts[-3].to_i
+  870
+end
+
 def clean_path(path)
   path = path.sub(/\n/,'')
   path = URI.escape(path)
@@ -46,5 +55,20 @@ def clean_path(path)
   path = path.gsub(/\?/, '%3F')
 end
 
+def prompt_user
+  puts "Enter a filename in the current directory that contains a list of github URLs: "
+  @file_path = gets.chomp
+  puts "Enter the course ID (int):"
+  @course_id = gets.chomp
+  
+  # for quick tests, uncomment this and comment out above
+  # @file_path = 'github_filenames_web.txt'
+  # @course_id = 6
 
-create_lessons
+  puts "Do you want to CREATE or UPDATE (c/u)?"
+  operation = gets.chomp
+
+  operation == 'c' ? create_lessons : update_lessons
+end
+
+prompt_user

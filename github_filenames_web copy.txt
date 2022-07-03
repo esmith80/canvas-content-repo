@@ -1,0 +1,3 @@
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/001__Welcome and Introductions__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/002__The Dev Workflow__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/003__Organizing Our Code__Walkthrough.md

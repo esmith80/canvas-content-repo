@@ -1,24 +1,647 @@
 ---
-:name: My TEST COURSE
-:id: 5
+:name: Web Flex v2
+:id: 12
 :modules:
-- :id: 14
-  :name: Test Module 1
+- :id: 28
+  :name: All activities
   :lessons:
-  - id: test-page
-    title: Test Page
-    indent: 0
-    type: Page
-    html_url: http://canvas.docker/courses/5/modules/items/31
-    page_url: test-page
-    url: http://canvas.docker/api/v1/courses/5/pages/test-page
-    published: false
-    repository: ''
-  - id: '25'
-    title: heading 1 Test lesson in README file
+  - id: '810'
+    title: Adding Numbers - Exercise
     indent: 0
     type: Assignment
-    html_url: http://canvas.docker/courses/5/modules/items/32
-    url: http://canvas.docker/api/v1/courses/5/assignments/25
+    html_url: http://canvas.docker/courses/12/modules/items/73
+    url: http://canvas.docker/api/v1/courses/12/assignments/810
+    published: false
+    repository: ''
+  - id: '812'
+    title: Arrow Functions - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/74
+    url: http://canvas.docker/api/v1/courses/12/assignments/812
+    published: false
+    repository: ''
+  - id: '815'
+    title: Callbacks - Map - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/75
+    url: http://canvas.docker/api/v1/courses/12/assignments/815
+    published: true
+    repository: ''
+  - id: '811'
+    title: Anonymous Functions - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/78
+    url: http://canvas.docker/api/v1/courses/12/assignments/811
+    published: false
+    repository: ''
+  - id: '817'
+    title: Character Counting - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/76
+    url: http://canvas.docker/api/v1/courses/12/assignments/817
+    published: false
+    repository: ''
+  - id: '818'
+    title: Character Positioning - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/77
+    url: http://canvas.docker/api/v1/courses/12/assignments/818
+    published: false
+    repository: ''
+  - id: '813'
+    title: Callbacks - Custom Sorting - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/82
+    url: http://canvas.docker/api/v1/courses/12/assignments/813
+    published: true
+    repository: ''
+  - id: '820'
+    title: Closures - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/79
+    url: http://canvas.docker/api/v1/courses/12/assignments/820
+    published: false
+    repository: ''
+  - id: '821'
+    title: Coercion and Truthy%252FFalsey - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/80
+    url: http://canvas.docker/api/v1/courses/12/assignments/821
+    published: false
+    repository: ''
+  - id: '822'
+    title: Command Line Args - Walkthrough
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/81
+    url: http://canvas.docker/api/v1/courses/12/assignments/822
+    published: false
+    repository: ''
+  - id: '823'
+    title: Create objects Directory - Task
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/83
+    url: http://canvas.docker/api/v1/courses/12/assignments/823
+    published: false
+    repository: ''
+  - id: '824'
+    title: Debugging Errors - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/84
+    url: http://canvas.docker/api/v1/courses/12/assignments/824
+    published: false
+    repository: ''
+  - id: '825'
+    title: Debugging Incorrect Code I - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/86
+    url: http://canvas.docker/api/v1/courses/12/assignments/825
+    published: false
+    repository: ''
+  - id: '826'
+    title: Debugging Incorrect Code II - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/87
+    url: http://canvas.docker/api/v1/courses/12/assignments/826
+    published: false
+    repository: ''
+  - id: '827'
+    title: Debugging Incorrect Code III - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/85
+    url: http://canvas.docker/api/v1/courses/12/assignments/827
+    published: false
+    repository: ''
+  - id: '828'
+    title: ES6 Template Literals - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/88
+    url: http://canvas.docker/api/v1/courses/12/assignments/828
+    published: false
+    repository: ''
+  - id: '829'
+    title: Feedback - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/89
+    url: http://canvas.docker/api/v1/courses/12/assignments/829
+    published: false
+    repository: ''
+  - id: '830'
+    title: Filtering With Callbacks - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/90
+    url: http://canvas.docker/api/v1/courses/12/assignments/830
+    published: false
+    repository: ''
+  - id: '831'
+    title: First Class Functions - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/91
+    url: http://canvas.docker/api/v1/courses/12/assignments/831
+    published: false
+    repository: ''
+  - id: '814'
+    title: Callbacks - Introduction - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/99
+    url: http://canvas.docker/api/v1/courses/12/assignments/814
+    published: true
+    repository: ''
+  - id: '832'
+    title: First date with Vim - Walkthrough
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/92
+    url: http://canvas.docker/api/v1/courses/12/assignments/832
+    published: false
+    repository: ''
+  - id: '833'
+    title: Fixing Buggy Code Part 1 - Console Logs - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/93
+    url: http://canvas.docker/api/v1/courses/12/assignments/833
+    published: false
+    repository: ''
+  - id: '834'
+    title: Function Best Practices - Introduction - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/94
+    url: http://canvas.docker/api/v1/courses/12/assignments/834
+    published: false
+    repository: ''
+  - id: '835'
+    title: Function Best Practices - Refactor I - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/95
+    url: http://canvas.docker/api/v1/courses/12/assignments/835
+    published: false
+    repository: ''
+  - id: '836'
+    title: Function Best Practices - Rolling Dice - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/96
+    url: http://canvas.docker/api/v1/courses/12/assignments/836
+    published: false
+    repository: ''
+  - id: '837'
+    title: Functions, Variables and Debugging - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/97
+    url: http://canvas.docker/api/v1/courses/12/assignments/837
+    published: false
+    repository: ''
+  - id: '838'
+    title: Getting Comfortable with Error Messages - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/98
+    url: http://canvas.docker/api/v1/courses/12/assignments/838
+    published: false
+    repository: ''
+  - id: '839'
+    title: Git, Markdown, and the Dev Workflow - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/100
+    url: http://canvas.docker/api/v1/courses/12/assignments/839
+    published: false
+    repository: ''
+  - id: '840'
+    title: Higher Order Functions - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/101
+    url: http://canvas.docker/api/v1/courses/12/assignments/840
+    published: false
+    repository: ''
+  - id: '841'
+    title: How to Solve Programming Problems - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/102
+    url: http://canvas.docker/api/v1/courses/12/assignments/841
+    published: false
+    repository: ''
+  - id: '842'
+    title: Implement assertArraysEqual - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/103
+    url: http://canvas.docker/api/v1/courses/12/assignments/842
+    published: false
+    repository: ''
+  - id: '843'
+    title: Implement assertEqual - Walkthrough
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/104
+    url: http://canvas.docker/api/v1/courses/12/assignments/843
+    published: false
+    repository: ''
+  - id: '844'
+    title: Implement assertObjectsEqual - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/106
+    url: http://canvas.docker/api/v1/courses/12/assignments/844
+    published: false
+    repository: ''
+  - id: '845'
+    title: Implement countOnly in Lotide - Practice
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/105
+    url: http://canvas.docker/api/v1/courses/12/assignments/845
+    published: false
+    repository: ''
+  - id: '816'
+    title: Callbacks - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/113
+    url: http://canvas.docker/api/v1/courses/12/assignments/816
+    published: false
+    repository: ''
+  - id: '819'
+    title: Closures - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/115
+    url: http://canvas.docker/api/v1/courses/12/assignments/819
+    published: false
+    repository: ''
+  - id: '846'
+    title: Implement eqArrays - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/108
+    url: http://canvas.docker/api/v1/courses/12/assignments/846
+    published: false
+    repository: ''
+  - id: '847'
+    title: Implement eqObjects - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/109
+    url: http://canvas.docker/api/v1/courses/12/assignments/847
+    published: false
+    repository: ''
+  - id: '849'
+    title: Implement findKey - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/107
+    url: http://canvas.docker/api/v1/courses/12/assignments/849
+    published: false
+    repository: ''
+  - id: '848'
+    title: Implement findKeyByValue in Lotide - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/111
+    url: http://canvas.docker/api/v1/courses/12/assignments/848
+    published: false
+    repository: ''
+  - id: '850'
+    title: Implement flatten - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/110
+    url: http://canvas.docker/api/v1/courses/12/assignments/850
+    published: false
+    repository: ''
+  - id: '851'
+    title: Implement head - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/114
+    url: http://canvas.docker/api/v1/courses/12/assignments/851
+    published: false
+    repository: ''
+  - id: '852'
+    title: Implement middle - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/112
+    url: http://canvas.docker/api/v1/courses/12/assignments/852
+    published: false
+    repository: ''
+  - id: '853'
+    title: Implement tail - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/118
+    url: http://canvas.docker/api/v1/courses/12/assignments/853
+    published: false
+    repository: ''
+  - id: '854'
+    title: Implement takeUntil - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/116
+    url: http://canvas.docker/api/v1/courses/12/assignments/854
+    published: false
+    repository: ''
+  - id: '855'
+    title: Implement without - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/119
+    url: http://canvas.docker/api/v1/courses/12/assignments/855
+    published: false
+    repository: ''
+  - id: '856'
+    title: Important keyboard shortcuts - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/117
+    url: http://canvas.docker/api/v1/courses/12/assignments/856
+    published: false
+    repository: ''
+  - id: '857'
+    title: Improve assertEqual - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/120
+    url: http://canvas.docker/api/v1/courses/12/assignments/857
+    published: false
+    repository: ''
+  - id: '858'
+    title: Intro to Programming - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/123
+    url: http://canvas.docker/api/v1/courses/12/assignments/858
+    published: false
+    repository: ''
+  - id: '859'
+    title: Joining Concepts - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/122
+    url: http://canvas.docker/api/v1/courses/12/assignments/859
+    published: false
+    repository: ''
+  - id: '860'
+    title: Linting and ESLint Setup - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/121
+    url: http://canvas.docker/api/v1/courses/12/assignments/860
+    published: false
+    repository: ''
+  - id: '861'
+    title: Linting Our Lunch - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/124
+    url: http://canvas.docker/api/v1/courses/12/assignments/861
+    published: false
+    repository: ''
+  - id: '862'
+    title: Loopy Lighthouse Refactor - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/125
+    url: http://canvas.docker/api/v1/courses/12/assignments/862
+    published: false
+    repository: ''
+  - id: '863'
+    title: Make Lotide Directory - Task
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/126
+    url: http://canvas.docker/api/v1/courses/12/assignments/863
+    published: false
+    repository: ''
+  - id: '864'
+    title: Minimum Values - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/129
+    url: http://canvas.docker/api/v1/courses/12/assignments/864
+    published: false
+    repository: ''
+  - id: '865'
+    title: More on Primitives and Objects in JS - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/127
+    url: http://canvas.docker/api/v1/courses/12/assignments/865
+    published: false
+    repository: ''
+  - id: '866'
+    title: Objects - Basic Concepts - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/128
+    url: http://canvas.docker/api/v1/courses/12/assignments/866
+    published: false
+    repository: ''
+  - id: '867'
+    title: Objects - Iteration - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/130
+    url: http://canvas.docker/api/v1/courses/12/assignments/867
+    published: false
+    repository: ''
+  - id: '868'
+    title: Objects - Quiz
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/131
+    url: http://canvas.docker/api/v1/courses/12/assignments/868
+    published: false
+    repository: ''
+  - id: '869'
+    title: Objects - Sales Tax - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/132
+    url: http://canvas.docker/api/v1/courses/12/assignments/869
+    published: false
+    repository: ''
+  - id: '870'
+    title: Organizing Our Code - Walkthrough
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/133
+    url: http://canvas.docker/api/v1/courses/12/assignments/870
+    published: false
+    repository: ''
+  - id: '871'
+    title: Pair Programming - Raisin%27 Arizona - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/134
+    url: http://canvas.docker/api/v1/courses/12/assignments/871
+    published: false
+    repository: ''
+  - id: '872'
+    title: Password Obfuscator - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/135
+    url: http://canvas.docker/api/v1/courses/12/assignments/872
+    published: false
+    repository: ''
+  - id: '873'
+    title: Password Obfuscator Refactor - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/136
+    url: http://canvas.docker/api/v1/courses/12/assignments/873
+    published: false
+    repository: ''
+  - id: '874'
+    title: Peer Mentoring - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/137
+    url: http://canvas.docker/api/v1/courses/12/assignments/874
+    published: false
+    repository: ''
+  - id: '876'
+    title: Prep Katas Revisit - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/138
+    url: http://canvas.docker/api/v1/courses/12/assignments/876
+    published: false
+    repository: ''
+  - id: '875'
+    title: Pig Latin Translator - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/139
+    url: http://canvas.docker/api/v1/courses/12/assignments/875
+    published: false
+    repository: ''
+  - id: '877'
+    title: Primitive Data Types - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/141
+    url: http://canvas.docker/api/v1/courses/12/assignments/877
+    published: false
+    repository: ''
+  - id: '879'
+    title: Pythorean using Map - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/140
+    url: http://canvas.docker/api/v1/courses/12/assignments/879
+    published: false
+    repository: ''
+  - id: '878'
+    title: Project - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/142
+    url: http://canvas.docker/api/v1/courses/12/assignments/878
+    published: false
+    repository: ''
+  - id: '880'
+    title: Reversing a String - Problem
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/144
+    url: http://canvas.docker/api/v1/courses/12/assignments/880
+    published: false
+    repository: ''
+  - id: '881'
+    title: SASS - Stretch Activity
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/143
+    url: http://canvas.docker/api/v1/courses/12/assignments/881
+    published: false
+    repository: ''
+  - id: '882'
+    title: Scope in Javascript - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/145
+    url: http://canvas.docker/api/v1/courses/12/assignments/882
+    published: false
+    repository: ''
+  - id: '884'
+    title: So what is a gist, anyway? - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/146
+    url: http://canvas.docker/api/v1/courses/12/assignments/884
+    published: false
+    repository: ''
+  - id: '883'
+    title: Social Network Analysis - Part I - Challenge
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/147
+    url: http://canvas.docker/api/v1/courses/12/assignments/883
+    published: false
+    repository: ''
+  - id: '885'
+    title: Using Closures - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/148
+    url: http://canvas.docker/api/v1/courses/12/assignments/885
+    published: false
+    repository: ''
+  - id: '886'
+    title: Using Closures II - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/150
+    url: http://canvas.docker/api/v1/courses/12/assignments/886
+    published: false
+    repository: ''
+  - id: '887'
+    title: Using Map - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/149
+    url: http://canvas.docker/api/v1/courses/12/assignments/887
+    published: false
+    repository: ''
+  - id: '888'
+    title: Welcome to Lotide - Reading
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/151
+    url: http://canvas.docker/api/v1/courses/12/assignments/888
+    published: false
+    repository: ''
+  - id: '889'
+    title: What should I do for Lunch%253F - Exercise
+    indent: 0
+    type: Assignment
+    html_url: http://canvas.docker/courses/12/modules/items/152
+    url: http://canvas.docker/api/v1/courses/12/assignments/889
     published: false
     repository: ''

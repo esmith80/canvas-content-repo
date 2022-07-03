@@ -1,9 +1,3 @@
----
-uuid: 1cdbdc85-a4eb-46c8-ade4-5d90de90c07c
-duration: 10
-tags: bash,vm,git
----
-
 In this reading we will explore one way to organize our various code files into directories ("folders") throughout our journey! We will create a folder using the command line.
 
 ## Dev Work in Vagrant
