@@ -1,8 +1,3 @@
----
-uuid: 15cc1ee2-bac8-4c2f-8aa8-fa534c58f82f
-duration: 120
----
-
 Welcome to your first technical Lecture at Lighthouse! 
 
 ## Topics
