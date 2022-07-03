@@ -12,7 +12,6 @@
     html_url: http://canvas.docker/courses/3/modules/items/153
     url: http://canvas.docker/api/v1/courses/3/assignments/482
     published: false
-    # repository: "https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Data/Analysis in Spreadsheets/25__In Class Activity: Inspecting Your Data__Walkthrough.md"
     repository: "https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Data/Analysis%20in%20Spreadsheets/25__In%20Class%20Activity:%20Inspecting%20Your%20Data__Walkthrough.md"
   
   - id: '479'
@@ -22,4 +21,4 @@
     html_url: http://canvas.docker/courses/3/modules/items/154
     url: http://canvas.docker/api/v1/courses/3/assignments/479
     published: false
-    repository: https://github.com/esmith80/canvas-content-repo # this worked???
+    repository: "https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/003__Organizing%20Our%20Code__Walkthrough.md"

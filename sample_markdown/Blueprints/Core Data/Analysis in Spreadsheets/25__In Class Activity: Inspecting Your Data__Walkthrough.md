@@ -1,5 +1,7 @@
 ## Download the Data
 
+In this activity, you're going to... do a bunch of stuff.
+
 > #### Instruction
 > If you haven't already, download the YouTube data set introduced in class [here](http://bit.ly/lhl-youtube)
 
