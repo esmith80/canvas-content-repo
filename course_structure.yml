@@ -1,9 +1,0 @@
----
-:name: My TEST COURSE Part II
-:course_code: TEST-COURSE-TWO
-:modules:
-- :name: Test Module 1
-  :lessons:
-  - title: heading 1 Test lesson in README file
-    type: Page
-    repository: https://github.com/esmith80/canvas-content-repo

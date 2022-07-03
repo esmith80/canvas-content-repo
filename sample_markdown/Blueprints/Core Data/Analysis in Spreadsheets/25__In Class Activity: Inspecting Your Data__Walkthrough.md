@@ -1,7 +1,3 @@
----
-uuid: c0ae7a01-3155-46b0-bcd8-22fe8c37a18d
----
-
 ## Download the Data
 
 > #### Instruction
