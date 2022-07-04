@@ -1,7 +1,4 @@
----
-uuid: f49cf6e5-0fd1-473c-b92b-8ace2ff50154
-duration: 60
----
+
 
 
 In this tutorial, we will create our **first agent** in Python.

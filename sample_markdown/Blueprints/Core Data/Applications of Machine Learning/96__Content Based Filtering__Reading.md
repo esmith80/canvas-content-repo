@@ -1,7 +1,4 @@
----
-uuid: d2e87e48-73e6-4b88-b8b3-f8858128a983
-duration: 15
----
+
 
 After a short intro and motivation, we will begin our journey to mastering `Recommender Engines` with `Content-based filtering` models. We will also learn how `NLP` can be useful in this type of models.
 

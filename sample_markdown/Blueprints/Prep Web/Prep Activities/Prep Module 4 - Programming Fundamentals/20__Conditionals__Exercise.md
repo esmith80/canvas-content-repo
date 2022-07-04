@@ -1,9 +1,4 @@
----
-uuid: 70ac80db-0d61-4725-8e30-8e5175201e7d
-name: 'Conditionals'
-type: 'Assignment'
-duration: 90
----
+
 
 Once we have data in our applications we will need to be able to make some sort of decisions about that information. Maybe we need to compare two values or check if a value exists. In this exercise, we are going to learn how to use conditional statements to make decisions.
 

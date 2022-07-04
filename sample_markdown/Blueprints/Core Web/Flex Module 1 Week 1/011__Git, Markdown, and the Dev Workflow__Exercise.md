@@ -1,10 +1,4 @@
----
-uuid: 22859b64-6a34-402a-96b1-2902f8526203
-name: "Git, Markdown, and  the Dev Workflow"
-type: Walkthrough
-duration: 30
-tags: git,node
----
+
 
 In this activity we will create a new Git repository, learn the basics of Markdown, and create a README file with our newly learned Markdown skills.
 

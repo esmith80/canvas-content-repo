@@ -1,8 +1,4 @@
----
-uuid: ea86540f-bd05-4564-930f-f2a387b3966b
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 10
----
+
 
 Having learned about Template Literals (Template Strings), we can improve our `assertEqual` function to use them. 
 

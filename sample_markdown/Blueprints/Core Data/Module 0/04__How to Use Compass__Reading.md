@@ -1,7 +1,4 @@
----
-uuid: e8631d25-e87a-49d5-bec5-3a773f71b6f7
-duration: 10
----
+
 Welcome to your __how-to__ guide for Compass!
 
 In this activity, you're going to learn how to get the most out of Compass.

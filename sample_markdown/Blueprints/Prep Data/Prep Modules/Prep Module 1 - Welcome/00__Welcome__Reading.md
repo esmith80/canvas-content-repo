@@ -1,7 +1,4 @@
----
-uuid: 2120bce4-b777-11ec-b909-0242ac120002
-duration: 10
----
+
 
 Congratulations on taking the first step on your journey to becoming a data scientist! This short reading will give you some important information about how to interact with Compass and our curriculum.
 

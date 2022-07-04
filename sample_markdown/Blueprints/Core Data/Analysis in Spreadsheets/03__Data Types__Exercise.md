@@ -1,7 +1,4 @@
----
-uuid: 84d4d1ec-c6ad-45bf-b71e-c292a1a3d144
-duration: 10
----
+
 
 ## Data Types 
 

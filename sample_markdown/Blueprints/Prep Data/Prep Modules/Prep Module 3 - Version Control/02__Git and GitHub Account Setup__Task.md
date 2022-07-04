@@ -1,7 +1,4 @@
----
-uuid: fbdaeab2-b777-11ec-b909-0242ac120002
-duration: 30
----
+
 
 We will install GIT on our computer and set it up with your GitHub credentials so that you can push to your repositories on GitHub. That's all we're going to do here.
 

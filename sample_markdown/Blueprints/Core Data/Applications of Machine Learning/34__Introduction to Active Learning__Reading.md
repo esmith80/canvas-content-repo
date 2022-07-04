@@ -1,7 +1,4 @@
----
-uuid: 0309356c-fd88-4df6-bd29-a87cf5f9e878
-duration: 20
----
+
 
 We will now take a closer look at one of the learning techniques we saw in the previous reading – `Active Learning`.
 

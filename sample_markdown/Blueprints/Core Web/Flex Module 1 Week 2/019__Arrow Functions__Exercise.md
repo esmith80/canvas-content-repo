@@ -1,8 +1,4 @@
----
-uuid: f986e749-3143-4e0f-aed7-68cd8d0aa79b
-duration: 20
-tags: focal
----
+
 
 ES6 released a new syntax for function declarations that is very convenient to use for declaring anonymous functions (usually in the form of callbacks).
 

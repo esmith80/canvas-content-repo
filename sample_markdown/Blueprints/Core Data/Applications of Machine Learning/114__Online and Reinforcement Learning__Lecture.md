@@ -1,9 +1,4 @@
----
-uuid: fc875599-ce6d-4df7-9bba-32b2b4c7695a
-start_time: 1000
-use_cohort_start_time: true
-duration: 120
----
+
 
 
 ## Topics

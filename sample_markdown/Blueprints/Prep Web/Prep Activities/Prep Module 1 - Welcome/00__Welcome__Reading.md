@@ -1,7 +1,4 @@
----
-uuid: a95049a3-ee87-49bb-b0be-2817e8f88bb6
-duration: 10
----
+
 
 Congratulations on taking the first step on your journey to becoming a web developer! This short reading will give you some important information about how to interact with Compass and our curriculum.
 

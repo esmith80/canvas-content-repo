@@ -1,7 +1,4 @@
----
-uuid: 9259572a-bf66-4ade-9fec-c22a2c42d8d1
-duration: 10
----
+
 
 At one point during the course we will work with the **word2vec** model from Google. We will learn more about what it is later on but you can start the model download now because it takes some time.
 

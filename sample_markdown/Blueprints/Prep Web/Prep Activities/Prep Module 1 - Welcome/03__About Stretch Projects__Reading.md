@@ -1,7 +1,4 @@
----
-uuid: 462acf80-d4f9-4289-b5ab-d9b8ec42db17
-duration: 10
----
+
 
 This reading introduces you to the concept of _Stretch Projects_ in order to provide context and hopefully get you even more excited to prepare for your program.
 

@@ -1,10 +1,4 @@
----
-uuid: c4b3276d-f665-479e-b937-6028e63a00d8
-duration: 30
-stretch: true
-tags: focal-adv
-name: "Using Map II - Pythagorean"
----
+
 
 Another popular Higher-Order function commonly used with arrays is [`Array.prototype.map`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map).
 

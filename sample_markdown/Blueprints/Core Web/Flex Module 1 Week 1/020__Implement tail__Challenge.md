@@ -1,9 +1,4 @@
----
-uuid: fba20c56-49de-48cc-8ba1-fc7cf38821c8
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
-tags: arrays
----
+
 
 This challenge will help you further practice working with arrays and writing assertions.
 

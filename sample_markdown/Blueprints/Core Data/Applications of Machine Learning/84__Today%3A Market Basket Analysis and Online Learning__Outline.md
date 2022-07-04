@@ -1,7 +1,4 @@
----
-name: "Market Basket Analysis and Online Learning"
-uuid: 447c5c42-2efa-4c00-8f39-596cc406fb9f
----
+
 
 Now we will introduce **Market Basket Analysis** and **Online Learning**.
 

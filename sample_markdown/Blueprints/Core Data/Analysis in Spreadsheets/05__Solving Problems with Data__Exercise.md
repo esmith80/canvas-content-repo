@@ -1,8 +1,4 @@
----
-uuid: 51e26471-726b-4bea-aa2b-4e3da28cf18c
-allow_submissions: true
-duration: 20
----
+
 
 
 ## Group Activity

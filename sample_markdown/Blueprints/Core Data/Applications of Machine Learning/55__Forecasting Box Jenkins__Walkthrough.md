@@ -1,7 +1,4 @@
----
-uuid: cb7a5c2f-61bb-4263-a1e5-c3939a919b81
-duration: 40
----
+
 
 In the previous reading, we've learned about the `ARIMA` model. Now it's time to use this model in a basic example.
 

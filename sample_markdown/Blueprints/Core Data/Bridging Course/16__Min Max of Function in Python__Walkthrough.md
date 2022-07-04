@@ -1,7 +1,4 @@
----
-uuid: 547eda94-039e-4ccb-a572-876cd4f071db
-duration: 60
----
+
 
 
 We will take a look at how to do optimizations in Python with the `SciPy` package.

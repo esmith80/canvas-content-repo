@@ -1,8 +1,4 @@
----
-name: "Mini-project Introduction"
-uuid: 3e936f1f-19a0-4139-ae82-be52d6ad522c
-duration: 720
----
+
 ## Mini-Project V
 Are you familiar with the website Quora.com? It is a website where users can ask questions to be answered by other Quora visitors. As you can imagine, with with ~100 million visitors a month there are always going to be duplicate questions. 
 

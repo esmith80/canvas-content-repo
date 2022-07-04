@@ -1,7 +1,4 @@
----
-uuid: 98d69d3a-1acc-4905-9831-1c1e584092d5
-duration: 30
----
+
 
 In this tutorial we will get to know our first Python **control structure**: the **if** statement.
 

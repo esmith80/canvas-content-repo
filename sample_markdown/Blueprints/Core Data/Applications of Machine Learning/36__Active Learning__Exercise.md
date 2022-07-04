@@ -1,7 +1,4 @@
----
-uuid: 36ce34c6-8f8e-4471-b11b-f59328a0872a
-duration: 90
----
+
 
 
 We are going to practice the main concepts of `Active Learning`.

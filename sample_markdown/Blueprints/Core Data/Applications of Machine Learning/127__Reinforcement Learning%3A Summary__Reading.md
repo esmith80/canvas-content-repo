@@ -1,8 +1,4 @@
----
-uuid: 1ac32f78-fc70-4786-bb68-bfa1bab6d250
-duration: 40
-stretch: true
----
+
 
 In this reading we can review things we already know about Reinforcement Learning.
 

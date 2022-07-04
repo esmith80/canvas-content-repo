@@ -1,9 +1,4 @@
----
-uuid: a776d9c4-2d11-4497-bde4-0107fa0311fa
-name: 'Loops'
-type: 'Assignment'
-duration: 90
----
+
 
 Repeating tasks is a very common thing to do when programming, but writing duplicate code is bad, and time consuming. In this exercise, we will learn how to use loops as a way of repeating certain tasks.
 

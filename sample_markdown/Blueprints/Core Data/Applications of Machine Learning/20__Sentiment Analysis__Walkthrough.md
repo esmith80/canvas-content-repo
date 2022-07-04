@@ -1,7 +1,4 @@
----
-uuid: 61d5ff8e-4e90-4215-8d46-8bcc05c7317e
-duration: 50
----
+
 
 In this tutorial, we will learn how to perform `Sentiment analysis` with the `Sklearn` library.
 

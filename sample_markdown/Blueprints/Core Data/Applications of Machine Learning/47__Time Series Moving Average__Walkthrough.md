@@ -1,7 +1,4 @@
----
-uuid: 9cc2f06c-dc9a-40e4-86a6-293b592f1c9d
-duration: 40
----
+
 
 In this tutorial, we will learn about `Moving average` and its application in `Time Series analysis.`
 

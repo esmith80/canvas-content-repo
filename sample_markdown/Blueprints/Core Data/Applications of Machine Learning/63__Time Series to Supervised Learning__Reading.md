@@ -1,7 +1,4 @@
----
-uuid: 552e18b8-a5b2-4e4c-a288-7ff9e4075b13
-duration: 30
----
+
 
 We've explored many `Supervised Learning` machine learning models. We've also learned that in `Time Series` modeling we use a different structure of data (rows are ordered) compared to all other models used in `Supervised learning`. 
 

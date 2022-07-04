@@ -1,9 +1,4 @@
----
-uuid: d05a666c-f539-4c15-8393-c546fef14166
-name: 'Tinkering with Code'
-type: 'Assignment'
-duration: 90
----
+
 
 When we first learn how to ride a bike, we don't read a book on how to do it, or follow an online tutorial. When we first learn how to ride a bike, we do it by getting on the bike and practicing. 
 

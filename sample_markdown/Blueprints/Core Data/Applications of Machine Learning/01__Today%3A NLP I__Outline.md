@@ -1,7 +1,4 @@
----
-name: "NLP I"
-uuid: ae0960fd-f1e0-488d-a491-001f342b6b0a
----
+
 
 ## Introduction to NLP
 

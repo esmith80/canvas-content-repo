@@ -1,7 +1,4 @@
----
-uuid: 34dd2899-64ce-49e2-8f27-d6d15779e23b
-duration: 60
----
+
 
 We are going to practice eigenvectors by working with them in Python. This will help us understand how they are computed and how they work.
 

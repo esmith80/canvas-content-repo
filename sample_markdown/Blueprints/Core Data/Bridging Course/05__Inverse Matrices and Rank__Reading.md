@@ -1,8 +1,4 @@
----
-uuid: 9c754bcb-54e6-435d-9ed7-7f134b271052
-duration: 60
-stretch: true
----
+
 
 In this section we will take a closer look at **inverse matrices** and **the ranks of matrices**.
 

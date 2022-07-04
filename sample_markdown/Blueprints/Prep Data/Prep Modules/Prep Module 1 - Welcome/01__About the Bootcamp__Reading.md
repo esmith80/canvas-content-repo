@@ -1,9 +1,4 @@
----
-uuid: 2120c022-b777-11ec-b909-0242ac120002
-name: 'About the Bootcamp'
-type: 'Reading'
-duration: 20
----
+
 
 
 Still not sure if a bootcamp is right for you? Read this to get ready and inspired!

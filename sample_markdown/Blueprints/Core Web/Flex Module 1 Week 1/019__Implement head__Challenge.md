@@ -1,8 +1,4 @@
----
-uuid: d9a54150-3732-462c-bfa5-291b6fd65c36
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 20
----
+
 
 Let's add one of the simpler array-handling functions to our Lotide project. In doing so we will get more comfortable with adding additional functions to Lotide while also writing test cases for them.
 

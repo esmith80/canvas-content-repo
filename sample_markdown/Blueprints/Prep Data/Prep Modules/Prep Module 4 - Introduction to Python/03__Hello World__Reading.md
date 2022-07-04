@@ -1,7 +1,4 @@
----
-uuid: 9196d724-1480-43d3-b877-0d60cc87d34d
-duration: 25
----
+
 
 
 The first thing you are going to learn is how to print `hello world!`. It is the classic first step for most programming courses. In this module we are going to use JupyterLab as our IDE and the terminal to execute Python scripts.

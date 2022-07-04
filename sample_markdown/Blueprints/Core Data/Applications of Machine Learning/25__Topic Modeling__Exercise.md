@@ -1,7 +1,4 @@
----
-uuid: f39d47a5-0994-46c1-915b-2130541c550b
-duration: 40
----
+
 
 
 ## Exercise

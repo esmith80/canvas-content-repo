@@ -1,7 +1,4 @@
----
-uuid: 75449a5b-23d2-4d55-9fff-15e69cc72b28
-duration: 50
----
+
 
 
 So far, we've seen what vectors and matrices are,how we can manipulate them, and also some special types of matrices. We can also perform basic operations on them such as matrix addition and multiplication. 

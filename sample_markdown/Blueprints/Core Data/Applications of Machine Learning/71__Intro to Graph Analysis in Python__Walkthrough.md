@@ -1,7 +1,4 @@
----
-uuid: 596405ab-61e7-4804-857b-0f1ceba2ab2f
-duration: 90
----
+
 
 
 In this tutorial, we will create our first network in Python.

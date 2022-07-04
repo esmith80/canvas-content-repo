@@ -1,7 +1,4 @@
----
-uuid: ad1d9ff3-df0a-4e7c-8e00-384de95f349c
-duration: 10
----
+
 
 There is no coding without `Variables` so we are going to make sure we understand what they are.
 

@@ -1,8 +1,4 @@
----
-uuid: b2c0400e-6230-4f3c-b76d-5806d5f74439
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 45
----
+
 
 We are going to continue practicing our ability to work with arrays. To that end, here's one last array function to implement in Lotide before we get into objects.
 

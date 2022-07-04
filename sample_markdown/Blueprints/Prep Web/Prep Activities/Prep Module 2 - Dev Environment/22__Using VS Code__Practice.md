@@ -1,9 +1,4 @@
----
-uuid: 2c6159b9-8865-4aa3-8335-8d50b3075c28
-name: 'Using VS Code'
-type: 'Assignment'
-duration: 60
----
+
 
 A large part of programming is creating and editing text files. Programmers develop remarkable adeptness at manipulating the content of plain text files.
 

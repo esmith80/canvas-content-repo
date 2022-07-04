@@ -1,7 +1,4 @@
----
-uuid: 7c9d2208-df79-4ebc-a8bb-cb5c2371061c
-duration: 30
----
+
 
 The next _control structure_ we will learn about is the **while loop**. Sometimes, we need to repeat some action until it's successful. This is where _the while loop_ comes to the scene.
 

@@ -1,7 +1,4 @@
----
-uuid: 1ec05825-838a-4529-9613-b924e042c920
-duration: 25
----
+
 
 We already know the data types we can use in Python and how to control the flow of the code execution. Now it's time we take a look at **user defined functions**. 
 

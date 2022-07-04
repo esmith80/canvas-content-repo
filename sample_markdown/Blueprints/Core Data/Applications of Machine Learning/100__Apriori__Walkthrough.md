@@ -1,7 +1,4 @@
----
-uuid: a4e13afe-fcf3-4ca8-8059-a080f7d8a86e
-duration: 40
----
+
 
 This tutorial will teach us how to use the `Apriori` algorithm from the `apyori` library.
 

@@ -1,7 +1,4 @@
----
-uuid: 53ca94b9-ae61-4eac-961d-f177630cc78a
-duration: 100
----
+
 
 We will come back to the deep learning during this tutorial. We will practice how to apply different neural networks architectures to specific NLP problems.
 

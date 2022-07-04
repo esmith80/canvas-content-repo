@@ -1,8 +1,4 @@
----
-uuid: c997336c-2105-4241-9437-b4e21b602aa7
-duration: 20
-tags: bash,focal
----
+
 
 In this activity, we're going to learn about command line arguments and how to access them. In doing so, we'll also be reviewing how to index and loop through arrays.
 

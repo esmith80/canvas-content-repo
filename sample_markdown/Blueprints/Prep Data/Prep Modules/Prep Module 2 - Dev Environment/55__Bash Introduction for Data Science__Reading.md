@@ -1,8 +1,4 @@
----
-uuid: 17bd6f99-5eb1-4302-bce0-48e1370ee24f
-type: 'Reading'
-duration: 40
----
+
 
 In this reading, we will dive deeper into `Bash`, a programming language that we use inside _the command line_, and see how we can use it for Data Science.
 

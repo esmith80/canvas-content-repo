@@ -1,9 +1,4 @@
----
-uuid: b72d0aaf-d73d-419c-aaa4-62fb3979404a
-duration: 60
-stretch: true
-tags: focal-adv
----
+
 
 
 In this activity you'll practice writing your own closures.

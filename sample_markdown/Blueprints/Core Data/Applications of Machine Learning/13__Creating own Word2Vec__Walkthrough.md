@@ -1,7 +1,4 @@
----
-uuid: bc95319c-91d1-4084-9a57-2fbfde5b471b
-duration: 60
----
+
 
 In a [previous tutorial](/c39198a2-937e-40dc-99c3-2b5160e1d0d5), we became comfortable with *BagOfWords* and *TfIdf* techniques. Now we will create new  **Word2Vec** models by two approaches:
 

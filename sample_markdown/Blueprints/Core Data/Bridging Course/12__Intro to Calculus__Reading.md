@@ -1,7 +1,4 @@
----
-uuid: 6b8b640b-3deb-4519-8874-6c8479f74d0e
-duration: 25
----
+
 
 In this reading, we will introduce what **calculus** is.
 

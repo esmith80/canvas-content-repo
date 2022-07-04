@@ -1,7 +1,4 @@
----
-uuid: a66c15b1-f3c3-4c8f-abca-5824e5e3c2c1
-duration: 25
----
+
 
 This reading will introduce another interesting algorithm called `Apriori`. 
 

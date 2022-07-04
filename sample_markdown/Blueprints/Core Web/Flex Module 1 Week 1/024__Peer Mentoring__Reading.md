@@ -1,8 +1,4 @@
----
-uuid: 365a8705-bc3c-48a0-9635-516c7a2b2cde
-stretch: true
-duration: 10 
----
+
 
 Everyone is coming into the Flex program with varying skill levels and experiences. Some of you have studied coding before while others have a wide range of life experience in a diversity of industries, fields, and realms. Regardless of your current skill level, it is _absolutely indisputable_ that you were accepted into this program and so you have something to contribute to this community.
 

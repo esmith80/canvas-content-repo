@@ -1,6 +1,4 @@
----
-uuid: aa67d09b-f3bf-4160-875e-f2723191e710
----
+
 
 By definition **data collection** is _"the process of gathering and measuring information on variables of interest, in an established systematic fashion that enables one to answer stated research questions, test hypotheses, and evaluate outcomes."_  
 

@@ -1,7 +1,4 @@
----
-uuid: 8875075d-0ad6-4bf3-91b7-d2b5635369fb
-duration: 60
----
+
 
 In this reading, we will study **the singular value decomposition** method (or **SVD**) for decomposing a matrix into its constituent elements.
 

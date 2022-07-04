@@ -1,7 +1,4 @@
----
-name: "Active Learning and SNA"
-uuid: ccb51045-3722-4d34-b0e7-8c6c502569a2
----
+
 
 **Introduction to Deep Learning**
 

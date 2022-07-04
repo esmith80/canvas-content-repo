@@ -1,7 +1,4 @@
----
-uuid: 44314b5d-d7af-44ea-93e7-1a9c9c12acae
-duration: 20
----
+
 
 Now we will study `Graph Analysis`, sometimes also called `(Social) Network Analysis`.
 

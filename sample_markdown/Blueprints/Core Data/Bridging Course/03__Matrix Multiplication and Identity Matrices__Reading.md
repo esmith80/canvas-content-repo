@@ -1,8 +1,4 @@
----
-uuid: 0b85a0dc-4853-4d0d-a5bc-c507da272132
-duration: 60
-stretch: true
----
+
 
 We will take a closer look at **the Matrix Multiplication**.
 

@@ -1,7 +1,4 @@
----
-uuid: 2eabd088-5d36-476b-a890-a3e7eb78e314
-duration: 25
----
+
 
 
 Let's practice working with the _basic data types_. We will cover Strings, Numbers, Lists, Tuples, and Dicts. These are very important for everything else we will be doing in Python.

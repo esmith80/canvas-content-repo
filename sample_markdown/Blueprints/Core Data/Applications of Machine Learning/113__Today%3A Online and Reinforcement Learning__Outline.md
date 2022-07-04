@@ -1,7 +1,4 @@
----
-name: "Online and Reinforcement Learning"
-uuid: cc5d62a7-726a-4367-9ecc-a1c23abf9b22
----
+
 
 Hello!
 

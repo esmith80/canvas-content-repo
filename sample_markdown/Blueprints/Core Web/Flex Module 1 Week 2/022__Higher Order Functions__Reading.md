@@ -1,8 +1,4 @@
----
-uuid: 32c37411-d6bf-4a7f-b236-98b9cdbde7ea
-duration: 15
-tags: focal
----
+
 
 We've spent some time using functions which take in callbacks. In this activity we will peel back the proverbial green curtain and better understand how these functions work, and what they're called.
 

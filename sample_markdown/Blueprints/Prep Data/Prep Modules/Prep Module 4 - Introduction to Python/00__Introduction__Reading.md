@@ -1,7 +1,4 @@
----
-uuid: 976df4ff-b826-4fbf-a5d1-83d9f37f82e9
-duration: 15
----
+
 
 
 ## Programming Essentials with Python

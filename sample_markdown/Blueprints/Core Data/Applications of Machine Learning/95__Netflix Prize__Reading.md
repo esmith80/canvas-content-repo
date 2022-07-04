@@ -1,7 +1,4 @@
----
-uuid: 59ea8962-96a8-4a68-b428-05e3f8977d82
-duration: 20
----
+
 
 Have you heard about "the Netflix Prize"? A couple of years ago, Netflix organized a competition in building recommender engines and the first prize was set at **$1,000,000**!!!
 

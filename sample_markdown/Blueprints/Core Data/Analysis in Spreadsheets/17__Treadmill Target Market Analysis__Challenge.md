@@ -1,7 +1,4 @@
----
-uuid: 197229a3-1d03-4d41-8fe2-2c7d9408f905
-duration: 15
----
+
 
 ## Identifying Outliers in Cardio Customers 🏃‍♀️
 

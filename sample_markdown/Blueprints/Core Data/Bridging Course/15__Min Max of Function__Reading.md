@@ -1,7 +1,4 @@
----
-uuid: 564cb3cb-3398-43b0-bac0-137ad4b7c065
-duration: 40
----
+
 
 In this reading, we will learn how we can look for _the minimum_ and _maximum_ of functions using the slope of a graph and derivatives.
 

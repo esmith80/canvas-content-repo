@@ -1,7 +1,4 @@
----
-uuid: 56c7c4dc-bf11-42e1-bcaf-4a8ee666ec49
-duration: 10
----
+
 
 In this reading, we'll explain what the **Anaconda distribution** of Python is and why we chose it for this bootcamp. 
 

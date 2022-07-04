@@ -1,7 +1,4 @@
----
-uuid: 126b7544-12c5-434c-bcb1-80a6ad013ebf
-duration: 15
----
+
 
 Having learned about strings, there's one more thing that we've got to learn before we are able to see the bigger picture: **the numbers**. Every person knows what _a number is_. What about Python?
 

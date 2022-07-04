@@ -1,7 +1,4 @@
----
-uuid: 7a5a5f46-48ae-48c5-89a5-692c3841d9c9
-duration: 10
----
+
 
 Let's see what we can use time series for.
 

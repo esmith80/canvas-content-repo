@@ -1,9 +1,4 @@
----
-uuid: f67d87c9-23b2-4ec0-9935-7a4a03adc225
-duration: 15
-allow_submissions: true
-tags: focal
----
+
 
 Functions do not need to be named, or even assigned to a variable. These are known as _anonymous functions_, which we will also cover in this activity.
 

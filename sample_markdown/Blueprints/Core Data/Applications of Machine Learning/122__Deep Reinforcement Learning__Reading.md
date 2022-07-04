@@ -1,7 +1,4 @@
----
-uuid: caba0537-652e-45bf-a2d1-76d9089f6388
-duration: 30
----
+
 
 This reading will show us how we can leverage Deep Learning to improve our Reinforcement Learning agents.
 

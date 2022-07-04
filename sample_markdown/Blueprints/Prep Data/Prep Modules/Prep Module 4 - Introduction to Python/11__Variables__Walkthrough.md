@@ -1,7 +1,4 @@
----
-uuid: 48432713-1fa3-4edd-9e14-08e96f9faca8
-duration: 30
----
+
 
 
 We are going to practice variable assignments in Python. There are some rules about what can be a variable and what can't.

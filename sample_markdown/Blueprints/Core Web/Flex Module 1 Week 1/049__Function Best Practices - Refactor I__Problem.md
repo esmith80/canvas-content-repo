@@ -1,10 +1,4 @@
----
-uuid: 3d5ab3b8-7496-4702-9a43-df5d44c0a262
-duration: 40
-stretch: true
-allow_submissions: true
-tags: focal-adv
----
+
 
 Let's apply the new function best practices/guidelines to recently implemented code.
 

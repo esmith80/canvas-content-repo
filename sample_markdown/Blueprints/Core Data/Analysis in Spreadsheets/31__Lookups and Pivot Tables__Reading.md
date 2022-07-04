@@ -1,7 +1,4 @@
----
-uuid: 672a20ea-f211-4665-bd28-51b7d4d1c5e9
-duration: 10
----
+
 
 ## Lookups and Pivot Tables
 

@@ -1,10 +1,4 @@
----
-uuid: aaf69c2c-57ac-4b92-b559-f14b84caaff3
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 45
-name: "Implement Map"
-tags: focal
----
+
 
 Now let's create our own version of `map` in order to get some practice building our own higher-order functions. 
 

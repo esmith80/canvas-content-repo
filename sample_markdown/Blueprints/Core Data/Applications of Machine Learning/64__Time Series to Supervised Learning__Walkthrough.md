@@ -1,7 +1,4 @@
----
-uuid: cbd1c7f0-1c0f-4f8b-80e8-cbaa48cce869
-duration: 60
----
+
 
 The previous reading explained the idea behind `Time Series` to `Supervised Learning` data transformation. Now, it's time to implement this transformation from scratch in `Python`.
 

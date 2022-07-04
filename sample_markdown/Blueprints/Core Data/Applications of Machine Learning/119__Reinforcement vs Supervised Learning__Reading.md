@@ -1,7 +1,4 @@
----
-uuid: 0d0c28fd-0594-4a9d-90f3-ff704cca5f3c
-duration: 15
----
+
 
 In this reading, we will learn the main differences between Reinforcement Learning and Supervised Learning
 

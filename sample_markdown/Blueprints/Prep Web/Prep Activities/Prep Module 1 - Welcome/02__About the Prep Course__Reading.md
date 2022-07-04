@@ -1,9 +1,4 @@
----
-uuid: 61d62e67-b09b-465f-ba99-539164d31c81
-name: 'About The Prep Course'
-type: 'Reading'
-duration: 20
----
+
 
 Before jumping in, it's important that you understand the goals of this prep course and how they will be achieved.
 

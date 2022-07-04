@@ -1,7 +1,4 @@
----
-uuid: 0ba08d0a-8a71-49c3-923d-342e60e8383b
-duration: 15
----
+
 
 Firstly, we will start by introducing what **Natural Language Processing** is and how it differs from traditional Machine Learning problems.
 

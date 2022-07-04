@@ -1,7 +1,4 @@
----
-uuid: c85805b0-4497-4c9a-a8d1-b95ab01f4515
-duration: 10
----
+
 
 
 We are going to learn the basics of **string data types**.

@@ -1,7 +1,4 @@
----
-uuid: 468c3c92-5177-49ec-a77c-bc0432c411a0
-duration: 90
----
+
 
 And here comes the promised RNNs tutorial. We will combine things we learned previously about Recurrent Neural Networks and NLP, and build our first RNN with Keras.
 

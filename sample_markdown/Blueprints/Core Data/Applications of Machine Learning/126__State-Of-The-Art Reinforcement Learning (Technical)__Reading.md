@@ -1,8 +1,4 @@
----
-uuid: d4c7f6e7-597b-4c55-9ef5-87ca109edbfc
-duration: 30
-stretch: true
----
+
 
 We will take a **technical look** at state-of-the-art approaches to Reinforcement Learning.
 

@@ -1,9 +1,4 @@
----
-uuid: 34342749-cc0a-4fac-988f-bb345ae6214e
-duration: 60
-stretch: true
-tags: focal-adv
----
+
 
 In this activity you will further practice working with closures. But this time, in a situation where you create a higher order function that returns a function.
 

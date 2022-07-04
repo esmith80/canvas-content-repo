@@ -1,7 +1,4 @@
----
-uuid: 5b415311-69c9-46f7-b7a0-c374893297a2
-duration: 20
----
+
 
 In this hands-on tutorial, we will learn the basics of `Facebook's Prophet` in `Python`.
 

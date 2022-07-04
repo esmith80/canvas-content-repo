@@ -1,7 +1,4 @@
----
-uuid: 71b2c381-8e7d-40f1-adcd-3f2dfa2fe56b
-duration: 10
----
+
 
 ## Identifying Outliers Using Mean & Standard Deviation
 

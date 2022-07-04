@@ -1,8 +1,4 @@
----
-uuid: 703c0596-4553-49f4-9bb1-8e50e1b7bc1a
-duration: 120
-stretch: true
----
+
 
 
 This exercise will challenge us to build our own network and find people with influence.

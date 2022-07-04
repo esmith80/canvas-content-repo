@@ -1,7 +1,4 @@
----
-uuid: 571f0c9b-a2ab-4ef4-b269-f5587a42577c
-duration: 45
----
+
 
 Recently, we saw the main differences between traditional (batch) approach and online approach to ML problem. We will begin with some tutorials to practice various algorithms we can use in `Online Learning`.
 

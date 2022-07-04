@@ -1,7 +1,4 @@
----
-uuid: c39198a2-937e-40dc-99c3-2b5160e1d0d5
-duration: 45
----
+
 
 In this tutorial, we will work on _numerical representations of text_, which we studied in the last reading. We will try three different types of vectorization on easy examples.
 

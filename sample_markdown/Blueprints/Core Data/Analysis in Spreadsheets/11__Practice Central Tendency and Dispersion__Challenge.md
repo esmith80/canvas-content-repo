@@ -1,8 +1,4 @@
----
-uuid: e37d0f68-d33b-4551-8767-b014817169ce
-duration: 15
-name: "Practice: Central Tendency and Dispersion"
----
+
 
 ## The Scenario
 

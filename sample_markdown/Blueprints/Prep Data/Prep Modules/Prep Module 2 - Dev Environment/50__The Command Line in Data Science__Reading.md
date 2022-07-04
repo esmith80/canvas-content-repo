@@ -1,8 +1,4 @@
----
-uuid: f44a0028-a084-48f4-b7f5-389897dc8608
-type: 'Reading'
-duration: 10
----
+
 
 This section aims to motivate you to learn _the command line_ and explains why it is important especially in data science.
 

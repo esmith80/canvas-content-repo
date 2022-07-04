@@ -1,6 +1,4 @@
----
-uuid: af8f9896-ae68-407c-b5b1-1921201443b0 
----
+
 
 ## Calculating basic statistics in Excel
 

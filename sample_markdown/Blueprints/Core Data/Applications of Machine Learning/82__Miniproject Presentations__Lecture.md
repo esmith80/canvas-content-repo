@@ -1,8 +1,4 @@
----
-uuid: b15006bc-70af-4b59-a638-53bd52f7fe72
-start_time: 1400
-duration: 120
----
+
 
 ## Topics
 

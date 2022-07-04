@@ -1,7 +1,4 @@
----
-uuid: cc3e525e-55d5-469a-b52d-4d9621d3e518
-duration: 15
----
+
 
 JavaScript has a number of handy functions that allow for code to be run after a specific amount of time has passed. In this reading, we will quickly cover JavaScript timer functions.
 

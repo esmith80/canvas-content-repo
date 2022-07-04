@@ -1,7 +1,4 @@
----
-uuid: baab9693-3ee0-4f19-a46b-7ddd4e1baf55
-duration: 120
----
+
 
 An introduction to the use of Objects to store data and behavior, the concept of key-value pairs, passing objects into functions, but also functions inside of objects!
 

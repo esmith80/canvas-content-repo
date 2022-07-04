@@ -1,7 +1,4 @@
----
-uuid: 538d5a93-1335-4757-b5b8-fc1fb340adcd
-duration: 60
----
+
 
 We're going to apply deep learning to create a more complex agent in Python.
 

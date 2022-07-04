@@ -1,7 +1,4 @@
----
-name: "Mini Project: Presentation"
-uuid: 97499686-6f25-4538-8ca0-1cc66eed4c63
----
+
 
 **Fundamental Friday Again!**
 

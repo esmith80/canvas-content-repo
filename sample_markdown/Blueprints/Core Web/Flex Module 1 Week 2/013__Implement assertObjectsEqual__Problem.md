@@ -1,8 +1,4 @@
----
-uuid: cce0707b-2160-470b-bc43-98f3f7d10da4
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
----
+
 
 As a continuation of the previous exercise, it's time to create our `assertObjectsEqual` function which will help us easily test functions that return objects.
 

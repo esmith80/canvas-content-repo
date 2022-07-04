@@ -1,8 +1,4 @@
----
-uuid: 6ed6e323-117b-4d12-9c18-d5b3d3938fe1
-duration: 30
-stretch: true
----
+
 
 Mastering your text editor and Operating System (OS) will make you a more efficient and impressive developer.
 

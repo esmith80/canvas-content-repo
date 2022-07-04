@@ -1,7 +1,4 @@
----
-uuid: b7bc0642-a7a3-4f06-aa18-fb0e4e8df895
-duration: 30
----
+
 
 
 In this reading, we will introduce `Online Learning`, which allows us to update our models in near real-time.

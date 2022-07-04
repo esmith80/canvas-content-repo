@@ -1,7 +1,4 @@
----
-uuid: f286e284-c528-4ba7-b27e-8058955cd8e9
-duration: 20
----
+
 
 This doc is here to help set expectations for how all of us, including yourself, are expected to operate. We covered a lot of this in our introductions but still encourage you to read this in full. Believe us, it's quite important.
 

@@ -1,7 +1,4 @@
----
-uuid: a27344ff-3730-4f1e-b50f-8b81135fe0ab
-duration: 20
----
+
 
 In this activity, we will learn how to access DOM elements by their __Tag Name__ with the `getElementsByTagName` DOM method.
 

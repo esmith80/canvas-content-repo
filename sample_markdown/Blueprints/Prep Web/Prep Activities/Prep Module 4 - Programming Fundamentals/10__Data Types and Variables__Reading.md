@@ -1,9 +1,4 @@
----
-uuid: e631059c-9c8f-4c95-9565-4ffe6a561cd2
-name: 'Data Types & Variables'
-type: 'Assignment'
-duration: 90
----
+
 
 All applications that we write will depend on some sort of data. Whether it's simple numbers for a calculator app, or large amounts of data for a social network; all apps rely on data. In this exercise, we are going to learn how to represent different types of data in JavaScript and store that data using variables. 
 

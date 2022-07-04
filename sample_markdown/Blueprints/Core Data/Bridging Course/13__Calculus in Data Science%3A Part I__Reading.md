@@ -1,7 +1,4 @@
----
-uuid: bef6d7ae-ae4c-418b-88b9-8fcb86274d20
-duration: 10
----
+
 
 Now that we know what calculus is, let's see how can we use it for data science.
 

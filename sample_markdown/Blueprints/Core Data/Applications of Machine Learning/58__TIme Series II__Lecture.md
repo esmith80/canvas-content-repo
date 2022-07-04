@@ -1,10 +1,4 @@
----
-name: "Time Series II"
-uuid: 9b8e457a-4540-467d-b56e-a6f7d1033b8a
-start_time: 1000
-use_cohort_start_time: true
-duration: 120
----
+
 
 
 ## Topics

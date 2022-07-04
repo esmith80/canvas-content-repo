@@ -1,9 +1,4 @@
----
-uuid: a2bbc279-3b58-4209-bc10-3baafe19e587
-name: 'Fundamentals of Programming'
-type: 'Reading'
-duration: 5
----
+
 
 In this module we're going to learn the fundamental concepts of programming in JavaScript by following along with practice exercises and solving coding challenges from scratch.
 

@@ -1,10 +1,4 @@
----
-uuid: 7a16dd98-8e5a-491d-90d2-4b7544d5e178
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 40
-stretch: true
-tags: focal-adv
----
+
 
 Our imaginary trick-or-treater has returned from their run. Some of their neighbours just gave them smaller bags of candy. Their big bag of treats contains smaller bags. Ugh! They want to just take out all of the candy and get it into one single bag, making it easier to eat them later!
 

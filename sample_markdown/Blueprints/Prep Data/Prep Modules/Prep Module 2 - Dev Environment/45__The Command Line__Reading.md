@@ -1,8 +1,4 @@
----
-uuid: 4ce6fba3-a4a5-4d58-848f-ab6150b401ba
-type: 'Reading'
-duration: 180
----
+
 
 We'll now take a short break from JupyterLab and explore another interface that will be used quite often: `the terminal (i.e. the command line)`.
 

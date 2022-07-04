@@ -1,10 +1,4 @@
----
-uuid: e6b56678-9128-4a75-8b09-3a63c4c8eb60
-duration: 120
-stretch: true
-allow_submissions: true
-tags: focal-adv
----
+
 
 This challenge encourages further practice in traversing nested objects / arrays to solve interesting real-world-like problems.
 

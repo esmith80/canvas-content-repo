@@ -1,7 +1,4 @@
----
-uuid: 7f05ce8a-a6d8-4660-9bd5-9c552c1f3d83
-duration: 180
----
+
 
 We're now going to apply what we've learned to complete this challenge. Since we will start working on the final project soon, there will be no mini-project, and therefore we can have a slightly more complex challenge. We're going to build a recommender engine - our own version of **Netflix Prize**!
 

@@ -1,7 +1,4 @@
----
-uuid: 6228f5ea-654b-4d42-b7aa-e5d668aee061
-duration: 10
----
+
 
 We've spent some time cleaning and preprocessing text data to make them suitable for NLP modeling algorithms.
 

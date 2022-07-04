@@ -1,8 +1,4 @@
----
-uuid: ffce4825-6ae1-461e-b647-fdd7d51228c8
-name: 'Setup Apple M1 Machine'
-duration: 60
----
+
 
 > #### Danger
 > **This exercise is _only_ intended for Apple M1 owners!**

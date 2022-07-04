@@ -1,8 +1,4 @@
----
-uuid: f8583ec7-c3b5-40ad-bcee-ec4ae811c2b6
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 75
----
+
 
 Let's implement another useful utility function into Lotide. In doing so we will get more hands on experience in implementing and testing higher-order functions which use callbacks.
 

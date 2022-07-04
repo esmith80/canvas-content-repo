@@ -1,7 +1,4 @@
----
-name: "Linear Algebra"
-uuid: 6469f2fb-1b7e-436d-b2a6-f39714a19c40
----
+
 
 ## Welcome to another FF!
 Previously, we reviewed our knowledge of probability and statistics. We will continue with mathematics and this time, it's going to be all about Linear Algebra.

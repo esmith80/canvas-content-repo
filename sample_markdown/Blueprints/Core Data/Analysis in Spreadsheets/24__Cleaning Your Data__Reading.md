@@ -1,6 +1,4 @@
----
-uuid: 2d76399a-af84-4056-8c1b-4cb2c16345d5
----
+
 
 ![clean](https://media.giphy.com/media/2tSk579HlpT7n8VOY9/giphy.gif)
 

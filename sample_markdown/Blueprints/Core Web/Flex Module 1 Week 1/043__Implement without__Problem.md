@@ -1,8 +1,4 @@
----
-uuid: f4356938-c0a5-43c7-be70-025d50690cde
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
----
+
 
 Often times we need to filter our data by removing some unwanted items, so that we can focus on the "good stuff" that we need. An example of this is all the candy kids get while _[trick-or-treating](https://en.wikipedia.org/wiki/Trick-or-treating)_ for Halloween. Many of these kids create a separate pile of candy which doesn't include all the stuff that they don't like (I hated getting _Dubble Bubble_ as a kid!)
 

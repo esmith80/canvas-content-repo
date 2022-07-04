@@ -1,7 +1,4 @@
----
-uuid: 36793b2e-86f8-452d-b2aa-5574e7e9f5ec
-duration: 15
----
+
 
 ## Using the Data Analysis ToolPak to calculate Descriptive Statistics
 

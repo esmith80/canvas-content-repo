@@ -1,10 +1,4 @@
----
-uuid: 207237c2-b778-11ec-b909-0242ac120002
-name: 'Push Bash to Github'
-type: 'Assignment'
-allow_submissions: true
-duration: 30
----
+
 
 
 In this activity you'll put your new found git skills to use by pushing your `bash` code to GitHub. Used the file you wrote [in this tutorial](/17bd6f99-5eb1-4302-bce0-48e1370ee24f).

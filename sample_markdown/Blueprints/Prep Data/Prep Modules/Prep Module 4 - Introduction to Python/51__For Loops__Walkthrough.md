@@ -1,7 +1,4 @@
----
-uuid: b042af77-9a90-40bd-996f-2bb2169f8209
-duration: 30
----
+
 
 The last _control structure_ we will talk about is **the for loop**. It's useful every time we want to apply the same statements to different objects.
 

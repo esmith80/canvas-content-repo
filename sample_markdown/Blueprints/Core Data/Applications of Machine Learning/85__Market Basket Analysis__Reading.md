@@ -1,7 +1,4 @@
----
-uuid: fbf3581d-6598-41e5-8a6b-f8ce0a95e4f2
-duration: 30
----
+
 
 Let's take a look at **Market Basket Analysis** and how we can use it.
 

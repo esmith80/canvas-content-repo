@@ -1,9 +1,4 @@
----
-uuid: 4a4104f9-dc6a-4e91-b35d-283a0a43aa67
-stretch: true
-duration: 120
-archived: true
----
+
 
 ## Goals
 

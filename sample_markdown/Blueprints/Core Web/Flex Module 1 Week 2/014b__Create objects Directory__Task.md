@@ -1,7 +1,4 @@
----
-uuid: 4c27130e-0a67-4cf3-a150-78b2dab94c75
-duration: 5
----
+
 
 Remember that when we prepare for a new topic or a new project, we name the directory in a way that helps us organize our work. 
 

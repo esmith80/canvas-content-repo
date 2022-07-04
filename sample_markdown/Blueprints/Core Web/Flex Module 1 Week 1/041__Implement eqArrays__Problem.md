@@ -1,8 +1,4 @@
----
-uuid: a0a53751-5f17-4eaf-95a1-b7a2d2b4baa0
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
----
+
 
 While implementing `tail` [previously](/fba20c56-49de-48cc-8ba1-fc7cf38821c8) we came across another problem: JS doesn't allow us to easily compare arrays. This made the test code for our function more cumbersome.
 

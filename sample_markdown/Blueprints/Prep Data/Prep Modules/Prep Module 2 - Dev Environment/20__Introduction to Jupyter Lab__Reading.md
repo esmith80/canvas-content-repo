@@ -1,7 +1,4 @@
----
-uuid: 2fadab57-2105-40c9-a166-fd2a394c08d1
-duration: 10
----
+
 
 ## JupyterLab
 In this reading, we will learn about **Jupyter**, which is the most popular IDE (integrated development environment) for the development of data science and machine learning projects.

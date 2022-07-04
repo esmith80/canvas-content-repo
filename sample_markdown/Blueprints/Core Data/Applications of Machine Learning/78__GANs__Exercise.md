@@ -1,8 +1,4 @@
----
-uuid: 2f9dae8c-8a06-4f13-96bf-0cb9bbb2acef
-duration: 120
-stretch: true
----
+
 
 
 In this exercise, we are going to build a GAN network that will generate letters.

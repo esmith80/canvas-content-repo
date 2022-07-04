@@ -1,7 +1,4 @@
----
-uuid: 0b33b37e-a10a-484c-9a1c-4707888bf2d4
-duration: 15
----
+
 
 Previously, we spent a lot of time with various ML models. Now we will begin with another interesting field of Data Science called `Time Series Analysis`.
 

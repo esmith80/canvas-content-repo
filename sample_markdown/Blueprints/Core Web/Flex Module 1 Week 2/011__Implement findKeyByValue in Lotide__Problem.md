@@ -1,8 +1,4 @@
----
-uuid: 927e6f91-ec17-4c70-8264-0c14690ee444
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
----
+
 
 Time to practice some of our newly acquired object iteration skills!
 

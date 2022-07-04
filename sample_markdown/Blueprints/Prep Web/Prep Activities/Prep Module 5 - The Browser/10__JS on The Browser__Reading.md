@@ -1,7 +1,4 @@
----
-uuid: e1fd074e-16d1-481f-8cf9-7e17044a5516
-duration: 30
----
+
 
 In this section, our goal is to understand how we can write and test front-end JavaScript code like we did with Node in the terminal. We will also look into some of the methods that are available in JavaScript when running in the browser.
 

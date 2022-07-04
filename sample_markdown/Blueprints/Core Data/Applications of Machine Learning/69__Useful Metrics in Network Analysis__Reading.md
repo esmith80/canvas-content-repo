@@ -1,7 +1,4 @@
----
-uuid: 35351c43-d284-41a3-aabe-5a72173d5c23
-duration: 20
----
+
 
 
 In this reading, we will start discovering the metrics we can use to evaluate our graphs.

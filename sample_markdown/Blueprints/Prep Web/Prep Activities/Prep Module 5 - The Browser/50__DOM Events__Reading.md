@@ -1,7 +1,4 @@
----
-uuid: 8ec36516-7144-4d4e-9aa5-2d1afb00e95c
-duration: 30
----
+
 
 In this activity we will cover "events" in the browser in terms of:
 

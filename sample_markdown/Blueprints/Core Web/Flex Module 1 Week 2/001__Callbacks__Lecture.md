@@ -1,7 +1,4 @@
----
-uuid: 926cffaf-f30f-4379-ac3d-bd2141f15cc8
-duration: 120
----
+
 
 ## Topics covered
 

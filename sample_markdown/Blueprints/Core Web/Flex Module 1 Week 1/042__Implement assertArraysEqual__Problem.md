@@ -1,8 +1,4 @@
----
-uuid: 88e16496-74e9-45b6-9b96-c7fb28c20c48
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 30
----
+
 
 While the `assertEqual` is great at comparing primitive types (like numbers and strings), we could use another function for asserting that two arrays are equal.
 

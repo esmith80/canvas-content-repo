@@ -1,7 +1,4 @@
----
-uuid: 4eaf8909-f1bf-4390-882c-91da9fde4430
-duration: 30
----
+
 
 Loops are used most often to iterate over a collection of data, such as arrays. While there are many ways to loop over arrays in JS, this reading will introduce you to `for..of` loops since it is the primary and preferred way to accomplish this.
 

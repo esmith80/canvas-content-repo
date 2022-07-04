@@ -1,8 +1,4 @@
----
-uuid: ed35cdc0-fb9e-434c-a7d5-58c48372b969
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 5
----
+
 
 Today we start you off on your very first project at Lighthouse Labs. You'll create a JavaScript library called [Lotide](/projects/lotide)!
 

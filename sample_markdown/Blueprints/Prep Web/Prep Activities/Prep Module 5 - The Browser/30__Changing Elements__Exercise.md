@@ -1,7 +1,4 @@
----
-uuid: d85cbc84-9b49-43c5-811f-b17307acffcc
-duration: 60
----
+
 
 
 In this activity, we will explore the two primary ways to use JavaScript to change what's on a page without refreshing it.

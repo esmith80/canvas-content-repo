@@ -1,7 +1,4 @@
----
-uuid: b862ce38-983a-4c03-bf65-f42a8c6ff503
-duration: 60
----
+
 
 In this tutorial, we will apply LDA, the model we have learned about in the previous activity, to assign topics to news articles in Python. We will also try the new visualization package **pyLDAvis**.
 

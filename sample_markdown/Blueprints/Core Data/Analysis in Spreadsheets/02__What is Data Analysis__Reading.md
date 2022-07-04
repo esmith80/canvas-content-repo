@@ -1,8 +1,4 @@
----
-uuid: c85d7ecc-f9a5-46f0-858f-954f886fb52f
-name: "What is Data Analysis?"
-duration: 20
----
+
 
 Data analysis is defined as a process of cleaning, transforming, and modeling data to discover useful information for decision-making. The purpose of Data Analysis is to extract useful information from data and taking the decision based upon the data analysis.
 

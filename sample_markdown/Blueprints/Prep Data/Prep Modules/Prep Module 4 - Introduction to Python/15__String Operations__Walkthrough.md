@@ -1,7 +1,4 @@
----
-uuid: f1a0b943-9b49-4dc4-bb78-821f727d6d9e
-duration: 40
----
+
 
 
 We are going to learn about **string operations**. Python has a lot of built-in functions to deal with strings that we have to master to be as efficient as possible when working with data. 

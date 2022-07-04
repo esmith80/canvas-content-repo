@@ -1,7 +1,4 @@
----
-uuid: 746c9877-eabf-4087-8689-0a8f831737ca
-duration: 30
----
+
 
 
 We're now going to take a look at the main concepts of Social Network Analysis that we should apply every time we work with Graphs.

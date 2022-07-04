@@ -1,7 +1,4 @@
----
-uuid: e16515c3-238b-4b83-994e-a364f05f7038
-duration: 25
----
+
 
 
 We are going to practice the control structures some more. The goal is to get as comfortable as possible with these concepts.

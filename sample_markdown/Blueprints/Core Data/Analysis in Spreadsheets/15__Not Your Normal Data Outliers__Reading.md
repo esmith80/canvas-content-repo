@@ -1,8 +1,4 @@
----
-uuid: 6dec6983-fe0a-4902-b324-ec8e768896b5
-duration: 15
-name: "Not Your Normal Data: Outliers"
----
+
 
 ## Dealing with Outliers in Data
 

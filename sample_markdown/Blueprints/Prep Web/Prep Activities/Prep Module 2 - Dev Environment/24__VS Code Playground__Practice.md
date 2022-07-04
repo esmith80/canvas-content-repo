@@ -1,8 +1,4 @@
----
-uuid: 374a7b73-7ac5-4059-bc33-29f35e7e8dc7
-type: 'Assignment'
-duration: 30
----
+
 
 In this exercise, we will try out some of VS Code's advanced editing features using their interactive playground. This is a feature of VS Code that allows us to experiment with features, without needing to create files or a project.
 

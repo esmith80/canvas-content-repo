@@ -1,7 +1,4 @@
----
-name: "Soft Skills"
-uuid: 205255f2-bf5e-49da-92a4-43bb04a7f36e
----
+
 
 **Fundamental Friday Again!**
 

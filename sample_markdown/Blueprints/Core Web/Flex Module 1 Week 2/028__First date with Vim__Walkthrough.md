@@ -1,7 +1,4 @@
----
-uuid: cd72accd-47e8-4aa7-8175-333b59c10e28
-duration: 20
----
+
 
 Beyond VSCode, which we will use throughout this course, there is another code editor we'll need to get (somewhat) familiar with. It has been here since 1991 and its power users still give major editors a run for their money.
 

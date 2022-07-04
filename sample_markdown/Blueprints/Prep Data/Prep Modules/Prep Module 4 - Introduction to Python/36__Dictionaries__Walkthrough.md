@@ -1,7 +1,4 @@
----
-uuid: 5b5cb015-a2ef-49a4-8dc9-b9c80d9f45f4
-duration: 30
----
+
 
 **Dictionaries** are one of the two most frequently used Python types (together with lists). They have several similarities with lists, but differ in how their elements are accessed.
 

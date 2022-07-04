@@ -1,7 +1,4 @@
----
-uuid: 2120c8ba-b777-11ec-b909-0242ac120002
-duration: 10
----
+
 
 We are going to start this course by showing you what exactly **data science** is. 
 

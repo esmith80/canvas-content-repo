@@ -1,9 +1,4 @@
----
-uuid: 60ab65a2-dc34-4b58-a93f-ac0fe9a8df23
-name: 'Arrays'
-type: 'Assignment'
-duration: 90
----
+
 
 Until now we've been working with simple types of values, known as primitive types in JavaScript. Strings, numbers, and booleans are all primitive types, and we use primitives to represent all of the data in our applications. For example, we could represent the names of cars using Strings.
 

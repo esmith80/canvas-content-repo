@@ -1,7 +1,4 @@
----
-uuid: c3073c96-e284-4451-ae14-3390d8f72e40
-duration: 20
----
+
 
 In this reading, we will learn about `Recommender Engines`, which belong to another branch of machine learning algorithms. 
 

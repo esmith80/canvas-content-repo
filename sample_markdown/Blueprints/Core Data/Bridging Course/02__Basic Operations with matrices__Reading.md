@@ -1,9 +1,4 @@
----
-uuid: 9b7822ea-0c4c-4bf9-a71b-8345eb17c192
-name: 'Basic operations with matrices'
-type: 'Reading'
-duration: 80
----
+
 
 In the prep course, we covered the basics of what vectors and matrices are. We're now going to look at various operations that can be done with them. This is very important in different stages of machine learning algorithms.
 

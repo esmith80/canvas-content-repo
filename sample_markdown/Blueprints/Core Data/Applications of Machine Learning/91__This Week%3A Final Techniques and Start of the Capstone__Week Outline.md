@@ -1,7 +1,4 @@
----
-name: "Final Techniques and Start of the Capstone"
-uuid: 27f6bc5f-f2b6-43b2-afe9-b21335911e2d
----
+
 
 Now we will focus on:
 

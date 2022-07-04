@@ -1,7 +1,4 @@
----
-uuid: 43016b0c-796f-43b4-a29c-9fc0a2465adc
-duration: 20
----
+
 
 In this activity, we will learn how to access the **Document Object Model** (DOM) in JavaScript as well as how to use the `getElementById` DOM method.
 

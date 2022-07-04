@@ -1,9 +1,4 @@
----
-uuid: 26c99d86-5f4a-42a2-b871-58e38f857471
-name: 'Setting up a git Repo'
-type: 'Reading'
-duration: 15
----
+
 
 Starting with the exercises in this module, we're going to be writing JavaScript files and committing them to a new git repository to keep track of them all and to submit the work.
 

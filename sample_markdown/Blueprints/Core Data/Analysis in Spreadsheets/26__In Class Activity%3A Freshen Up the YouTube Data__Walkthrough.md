@@ -1,7 +1,4 @@
----
-uuid: ec9f72ee-fdf7-4d16-8880-594aa72b2483
-duration: 10
----
+
 
 ## Our YouTube Data Needs Cleaning!
 

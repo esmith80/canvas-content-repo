@@ -1,7 +1,4 @@
----
-uuid: 0faf5875-795d-4a2a-82a1-276f4728cd59
-duration: 5
----
+
 
 ## If This Then What?
 

@@ -1,8 +1,4 @@
----
-uuid: bb6fba11-404b-4b66-93c0-9a24fc9f54a3
-stretch: true
-duration: 30
----
+
 
 The command line is a fundamental tool that you need to get more comfortable with as a dev. (Re)explore the following commands below.
 

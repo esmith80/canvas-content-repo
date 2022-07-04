@@ -1,9 +1,4 @@
----
-uuid: fadfa447-430c-4622-b5ce-d1a26b2dd7bc
-name: 'Objects'
-type: 'Assignment'
-duration: 90
----
+
 
 
 We've already seen how powerful arrays are at organizing our data, but sometimes it doesn't make sense to structure our data using an array. If we wanted to organize the characteristics of a coffee cup, the order of the array wouldn't make sense.

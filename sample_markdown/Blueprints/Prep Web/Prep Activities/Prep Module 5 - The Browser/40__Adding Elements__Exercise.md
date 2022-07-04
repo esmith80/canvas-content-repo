@@ -1,7 +1,4 @@
----
-uuid: d24b3c9c-7cb9-405d-bfbe-db7631eff9e1
-archived: true
----
+
 
 The goal of this section is to familiarize yourself with using DOM methods to do the following:
 

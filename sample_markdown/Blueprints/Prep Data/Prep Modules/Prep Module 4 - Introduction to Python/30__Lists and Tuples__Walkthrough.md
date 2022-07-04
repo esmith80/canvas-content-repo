@@ -1,7 +1,4 @@
----
-uuid: 3aa01d63-76e7-47ec-b34f-27e7dd83bd2c
-duration: 30
----
+
 
 We are going to look at first two of the complex data types in Python. The idea is to store more objects (strings or numbers) in one variable.
 

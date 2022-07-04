@@ -1,7 +1,4 @@
----
-uuid: 67f1860a-599d-40d0-a9e4-6d87cb32a473
-duration: 180
----
+
 
 Now is a good time to go back to the activities we struggled with and take another look at them.
 

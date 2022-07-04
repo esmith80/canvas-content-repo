@@ -1,7 +1,4 @@
----
-uuid: 4fa8379c-ad66-489e-91bf-a9903ff36325
-duration: 120
----
+
 
 The goal of this tutorial is to create our own GAN network in `Python` using `Keras`. We're going to solve a complex Deep Learning problem by understanding existing Python code and applying Adversarial Learning using `GAN`. 
 

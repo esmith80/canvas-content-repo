@@ -1,7 +1,4 @@
----
-uuid: 50e8fc2c-1331-4bd5-bd46-ea4309c535e2
-duration: 180
----
+
 
 This challenge will test a combination of skills we've acquired recently and we'll have to deal with a complex NLP problem.
 

@@ -1,7 +1,4 @@
----
-uuid: fb284713-f5d2-486c-bb3b-1511628e51d2
-duration: 15
----
+
 
 We learned about Stochastic Gradient Descent in the `Machine Learning` module. This optimization is used also in Online Learning and is, sometimes, called `Online Gradient Descent`.
 

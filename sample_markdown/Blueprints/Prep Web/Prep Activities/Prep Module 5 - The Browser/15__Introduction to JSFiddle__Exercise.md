@@ -1,7 +1,4 @@
----
-uuid: 62fece05-bfec-46d8-94ca-81ce68f0f101
-duration: 30
----
+
 
 The next few exercises in this module make use of the excellent in-browser coding tool 'JSFiddle'. In this exercise we will be going over the basics of its usage. We will also take advantage of this exercise to quickly learn about the JavaScript 'alert' function.
 

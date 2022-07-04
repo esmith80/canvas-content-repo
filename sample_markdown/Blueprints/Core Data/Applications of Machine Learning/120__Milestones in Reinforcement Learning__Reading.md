@@ -1,7 +1,4 @@
----
-uuid: 65e5bb54-5647-4dde-a16e-02554ac66e7e
-duration: 40
----
+
 
 
 We will now take a look at some major milestones in the evolution of Reinforcement Learning.

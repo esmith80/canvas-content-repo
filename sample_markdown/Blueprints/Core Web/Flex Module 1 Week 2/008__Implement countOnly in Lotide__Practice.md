@@ -1,9 +1,4 @@
----
-uuid: 198ae70c-db55-467c-9b47-783d4f5cc7bd
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 45
-type: Exercise
----
+
 
 The goal of this practice exercise is to work together on solving a problem using objects and in doing that show you how objects can be used in interesting ways.
 

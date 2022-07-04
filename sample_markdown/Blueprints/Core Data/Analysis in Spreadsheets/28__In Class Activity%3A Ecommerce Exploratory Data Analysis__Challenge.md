@@ -1,7 +1,4 @@
----
-uuid: 6fe93ff2-6b97-4969-872f-455ad128b6f7
-duration: 20
----
+
 
 Now that we have a _feel_ for our data, there is a lot we can explore before doing any sort of analysis on it.
 

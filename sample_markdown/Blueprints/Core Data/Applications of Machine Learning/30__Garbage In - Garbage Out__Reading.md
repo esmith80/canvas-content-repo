@@ -1,7 +1,4 @@
----
-uuid: 3c0f94ed-65b4-4902-9641-2d3711562968
-duration: 20
----
+
 
 In Machine Learning, it's crucial that our input data have certain quality because our models can be only as good as the data that go in.
 

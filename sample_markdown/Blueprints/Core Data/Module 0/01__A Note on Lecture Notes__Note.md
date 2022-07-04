@@ -1,7 +1,4 @@
----
-uuid: 45aea24e-e217-45ea-831e-72d981bf7013
-duration: 5
----
+
 
 Please check your email for Lecture Notes sent by the instructors soon after a lecture or breakout. It will contain a summary from the instructor (in their words) on what was discussed.
 

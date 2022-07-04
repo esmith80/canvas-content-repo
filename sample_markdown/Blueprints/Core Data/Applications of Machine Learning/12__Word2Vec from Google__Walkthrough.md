@@ -1,7 +1,4 @@
----
-uuid: 9fdd18f8-f7c4-4883-bcde-f36fb51768a1
-duration: 60
----
+
 
 
 In this tutorial, we will see how we can use pre-trained Word2Vec models from the internet.

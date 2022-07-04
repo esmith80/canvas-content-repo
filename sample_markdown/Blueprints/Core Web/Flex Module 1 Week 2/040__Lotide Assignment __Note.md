@@ -1,6 +1,4 @@
----
-uuid: 7c6ec4ac-ffeb-4387-a582-3dc2178cf481
----
+
 
 Last week, we began with Lotide and will be continuing to work on the Lotide project. At first, we create our own assertion functions for writing test code, but by the end of the project we use industry-standard libraries [Mocha](https://mochajs.org) and [Chai](https://www.chaijs.com) for our automated testing.
 

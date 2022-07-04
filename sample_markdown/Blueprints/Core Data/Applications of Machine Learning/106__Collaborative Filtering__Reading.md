@@ -1,7 +1,4 @@
----
-uuid: 7572120f-16f2-4d94-a940-a56eba4a9020
-duration: 40
----
+
 
 In this reading, we will dive deeper into the `Collaborative filtering` technique, which is widely used in recommender engines. 
 

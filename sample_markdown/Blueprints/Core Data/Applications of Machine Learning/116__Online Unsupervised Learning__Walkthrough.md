@@ -1,7 +1,4 @@
----
-uuid: 76ce7cf1-ec8e-4da9-ac1d-7d7b08807f58
-duration: 45
----
+
 
 When talking about Online Learning, it doesn't always have to be Supervised Learning. In this tutorial, we will wrap our hands around an example of **Online Unsupervised Learning** using an adaptation of **KMeans**.
 

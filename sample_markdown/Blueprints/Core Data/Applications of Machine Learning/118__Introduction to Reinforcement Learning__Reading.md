@@ -1,7 +1,4 @@
----
-uuid: 7c2a40b3-08d9-43f6-9ddc-b91251000d01
-duration: 30
----
+
 
 We're finally going to get to know the last type of algorithm covered in this course: **Reinforcement Learning**.
 

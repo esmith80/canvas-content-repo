@@ -1,9 +1,4 @@
----
-uuid: efea3aaf-28ae-4487-bca5-cbc5bdc2e52d
-name: 'Checking Your Operating System'
-type: 'Task'
-duration: 30
----
+
 
 Before we get started, we need to make sure you are using the correct operating system. 
 

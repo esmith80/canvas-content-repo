@@ -1,7 +1,4 @@
----
-uuid: c52682c3-52a1-4ebe-b135-2237bfcce7e5
-duration: 20
----
+
 
 
 In this reading, we will take a look at the centrality metrics we can use and what they represent.

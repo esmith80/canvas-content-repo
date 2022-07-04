@@ -1,7 +1,4 @@
----
-uuid: 1cba2fcc-c762-43f5-b930-e6f4d795dc01
-duration: 10
----
+
 
 The name of this section already suggests that we have chosen __Python__ for this data science course. Through this reading, we'll show why we made this decision.
 

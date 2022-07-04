@@ -1,7 +1,4 @@
----
-uuid: 83fb4a7b-ab3b-4ad9-8fc5-c7ab2668ee33
-duration: 30
----
+
 
 We are going to do our first **Market Basket Analysis** in Python.
 

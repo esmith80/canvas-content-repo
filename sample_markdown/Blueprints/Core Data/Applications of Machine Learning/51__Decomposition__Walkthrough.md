@@ -1,7 +1,4 @@
----
-uuid: b2f6c2ba-97ef-4daf-82ae-c83351f97ed7
-duration: 40
----
+
 
 With this tutorial, we're going to learn how to decompose `Time Series` in `Python`.
 

@@ -1,7 +1,4 @@
----
-uuid: 8d385822-44a3-4c67-ac45-303c5cf37e59
-duration: 60
----
+
 
 Time to practice _matrix decomposition_ a little bit!
 

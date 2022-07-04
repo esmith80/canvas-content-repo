@@ -1,7 +1,4 @@
----
-uuid: 11f9526d-8815-4f75-b877-fac10e4e9db9
-duration: 70
----
+
 
 
 

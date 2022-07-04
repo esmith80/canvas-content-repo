@@ -1,7 +1,4 @@
----
-uuid: c3a3ea70-2da9-4f6a-a521-87897a7ccbc7
-duration: 10
----
+
 
 ## The Data Analysis Process
 

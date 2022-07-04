@@ -1,7 +1,4 @@
----
-uuid: 00832423-0f05-4d2c-8853-2391e2b13538
-duration: 20
----
+
 
 So far we have learned how to clean and preprocess text data before applying NLP algorithms. However, since all NLP Machine Learning models work with numerical data, we also need to focus on how to transform the preprocessed text into numerical features.
 

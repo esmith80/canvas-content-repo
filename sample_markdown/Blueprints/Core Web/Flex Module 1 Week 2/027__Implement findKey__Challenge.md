@@ -1,8 +1,4 @@
----
-uuid: 8cdde248-429b-48a0-8b63-5956d7a94aed
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 45
----
+
 
 Not too long ago, we [implemented a `findKeyByValue` function](/927e6f91-ec17-4c70-8264-0c14690ee444) in Lotide. It was similar to, but more limited than, `findKey` from Lodash. Now that we know about callbacks, let's make a more complex version of this in a similar way to what Lodash has.
 

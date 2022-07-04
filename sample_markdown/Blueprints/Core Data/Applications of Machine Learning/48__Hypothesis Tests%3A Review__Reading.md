@@ -1,8 +1,4 @@
----
-uuid: 865b8b18-5234-40f1-89aa-76b12e7b202f
-duration: 15
-type: Reading
----
+
 
 We've already covered `Hypothesis tests` in the past but since we're about to use some of them, it's a good idea to refresh our knowledge of `Hypothesis testing` and `p-values`.
 

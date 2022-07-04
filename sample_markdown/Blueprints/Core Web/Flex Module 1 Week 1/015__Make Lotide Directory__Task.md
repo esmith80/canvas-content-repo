@@ -1,8 +1,4 @@
----
-uuid: 652703e2-056e-4427-b93a-ffb9ae194ed3
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 5
----
+
 
 Before beginning your lotide project, let's create a directory for the project. 
 

@@ -1,7 +1,4 @@
----
-uuid: 3e5a2c9c-a715-4a3e-b77e-56abe5aa84ac
-duration: 15
----
+
 
 We are going to start with an overview of different data science tools. As there are many tools presented in this reading, we'll gradually learn more about them and their specifics.
 

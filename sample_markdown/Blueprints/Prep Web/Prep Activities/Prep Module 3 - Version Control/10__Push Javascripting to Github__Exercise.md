@@ -1,10 +1,4 @@
----
-uuid: 1fe50f97-fe2a-4063-88d5-9ff7bd804316
-name: 'Push Javascripting to Github'
-type: 'Assignment'
-allow_submissions: true
-duration: 30
----
+
 
 
 In this activity you'll put your new found git skills to use by pushing your `javascripting` code to GitHub.

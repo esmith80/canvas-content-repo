@@ -1,7 +1,4 @@
----
-uuid: d4e71b27-50e0-44f0-8dad-a666e2dc5601
-duration: 60
----
+
 
 We're now going to study the basic idea and concepts behind **Generative Adversarial Networks (GANs)**.
 

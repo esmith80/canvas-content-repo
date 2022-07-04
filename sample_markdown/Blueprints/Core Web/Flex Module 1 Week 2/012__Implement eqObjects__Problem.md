@@ -1,8 +1,4 @@
----
-uuid: 8020fb77-4f7c-45a0-9be4-4175c324cc08
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-duration: 60
----
+
 
 While working more with objects recently, we've created functions that _return_ objects. When writing out assertions to test the return value of these functions, we quickly realized that our `assertEqual` can't be used directly. `assertEqual` can really only be used for checking [primitive](/ab07e19a-79dd-496a-9fb9-cf82209170b4) return types. 
 

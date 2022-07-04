@@ -1,7 +1,4 @@
----
-uuid: d7c8acd6-a680-4cf0-bb20-d995eb50767e 
-duration: 30
----
+
 
 In programming articles and tutorials, there are often a number of terms and references used that a beginner may not understand. Some of these terms can be provided without a lot of context at first, making their usage confusing.
 

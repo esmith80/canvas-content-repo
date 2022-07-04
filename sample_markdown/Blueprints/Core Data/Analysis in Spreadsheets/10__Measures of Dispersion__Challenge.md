@@ -1,7 +1,4 @@
----
-uuid: 4eb582b2-67df-4847-a3af-9d8497e07a32
-duration: 10
----
+
 
 Now that we know our measures of central tendency, let's take a look at how spread out our data is around them using **measures of dispersion.** 
 

@@ -1,9 +1,4 @@
----
-uuid: 1ffa01aa-1fa7-495d-87aa-bceb6b158931
-name: 'Iterating Over Arrays: Banana Bread'
-type: 'Assignment'
-duration: 60
----
+
 
 We've made it pretty far into the Lighthouse Labs prep course. Let's celebrate by making some banana bread. Before we start baking, we'll need to write a script that prints out the ingredients for us. To spice things up a bit, we'll print the ingredients both in order and in reverse order.
 

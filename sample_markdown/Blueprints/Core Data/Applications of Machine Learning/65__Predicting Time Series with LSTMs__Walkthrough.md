@@ -1,7 +1,4 @@
----
-uuid: a8d9a812-4afb-421a-99c5-ce0a46397473
-duration: 80
----
+
 
 
 We can look at Time Series prediction as another use-case for Deep Learning. Recently, LSTMs have become very popular for Time Series and offer very precise results.

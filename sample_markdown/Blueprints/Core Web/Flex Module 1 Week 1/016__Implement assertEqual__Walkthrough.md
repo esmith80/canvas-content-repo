@@ -1,10 +1,3 @@
----
-uuid: e41be440-3479-4185-a66f-d65435c3b7b2
-section: 9ce11024-9346-45bb-8dbc-c1e6f562ef4f
-type: Exercise
-duration: 45
----
-
 As mentioned in the previous (Prime number) challenge, it would be nice to be able to see a series of success / failure messages printed to the console, letting us know if our functions are behaving as expected.
 
 In this walkthrough we'll explore a built-in way and implement our own custom `assertEqual` function to help us test our code.

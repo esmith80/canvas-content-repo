@@ -1,7 +1,4 @@
----
-uuid: 73abe556-8c13-4c29-aa7c-1bf39001bf03
-duration: 20
----
+
 
 In this reading, we will dive straight into Time Series forecasting by the `Box-Jenkins` methodology.
 

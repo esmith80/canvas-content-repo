@@ -1,8 +1,4 @@
----
-name: "Time Series"
-uuid: fb0c171f-3935-4607-a943-f1f3ec01ad37
-duration: 240
----
+
 
 In this challenge, we will review everything we have learned recently and apply it to a new dataset.
 

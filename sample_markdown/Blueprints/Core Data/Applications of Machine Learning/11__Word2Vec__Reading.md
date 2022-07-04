@@ -1,7 +1,4 @@
----
-uuid: d9e6ef24-0cfb-4c19-9bab-ada5e0c39e86
-duration: 40
----
+
 
 Let's move on to a more sophisticated way of creating a numerical representation of text data. This technique is called `Word2vec` and was created, published, and patented in 2013 by a team of researchers led by Tomas Mikolov at Google. 
 

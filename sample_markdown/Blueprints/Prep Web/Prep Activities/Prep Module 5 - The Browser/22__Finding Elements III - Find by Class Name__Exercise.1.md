@@ -1,7 +1,4 @@
----
-uuid: 78d144c3-bb62-43b3-8244-26e6cb7a6eb3
-duration: 20
----
+
 
 In this activity, we will learn how to access DOM elements by their __Class Name__ with the `getElementsByClassName` DOM method.
 

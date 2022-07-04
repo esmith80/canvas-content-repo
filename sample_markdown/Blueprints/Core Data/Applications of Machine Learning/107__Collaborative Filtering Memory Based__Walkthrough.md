@@ -1,7 +1,4 @@
----
-uuid: e3d3e078-67e0-4c59-83ee-23f659c2289f
-duration: 60
----
+
 
 In the last reading, we discovered two types of `Collaborative filtering.` Now, it's time to try the `Memory-based` approach in Python.
 

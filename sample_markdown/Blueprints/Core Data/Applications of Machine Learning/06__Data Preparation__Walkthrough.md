@@ -1,7 +1,4 @@
----
-uuid: 6c4da4f7-a1bc-4362-9e8c-b384360bf24d
-duration: 90
----
+
 
 In the last reading, we have learned what NLP is. Now, we will focus on how to clean and prepare data for NLP. Furthermore, we will combine this reading with hands-on tutorial and we will apply these data-cleaning techniques in Python.
 

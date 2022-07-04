@@ -1,7 +1,4 @@
----
-uuid: 19fd2c13-1903-4bb7-9482-e8af11e16b2b
-duration: 60
----
+
 
 Before we go any deeper into the theory behind Time Series Analysis, let's see how we can work with Time Series Pandas.
 

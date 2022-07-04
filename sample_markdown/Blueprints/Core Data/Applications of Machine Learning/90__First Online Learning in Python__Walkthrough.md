@@ -1,7 +1,4 @@
----
-uuid: 2e88895a-742f-42f0-ac98-5159dad91312
-duration: 60
----
+
 
 
 In this tutorial, we will create our first **Online Learning algorithm** in Python.

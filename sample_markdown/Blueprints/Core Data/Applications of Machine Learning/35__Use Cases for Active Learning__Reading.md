@@ -1,7 +1,4 @@
----
-uuid: a2745933-f232-4bfa-a5eb-e8faf695bdc9
-duration: 20
----
+
 
 Let's now take a sneak peak at some real-world Active Learning use cases.
 

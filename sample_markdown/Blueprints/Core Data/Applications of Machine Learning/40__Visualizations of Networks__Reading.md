@@ -1,7 +1,4 @@
----
-uuid: 9adf0d60-02e4-4d76-a22c-1ade4989756f
-duration: 10
----
+
 
 We're now going to take a look at various network visualizations.
 

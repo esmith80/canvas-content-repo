@@ -1,7 +1,4 @@
----
-uuid: bfccd519-1220-4b3a-b3b8-db4b1776c66c
-duration: 15
----
+
 
 In this tutorial, we are going to install the Anaconda distribution on our computer.
 

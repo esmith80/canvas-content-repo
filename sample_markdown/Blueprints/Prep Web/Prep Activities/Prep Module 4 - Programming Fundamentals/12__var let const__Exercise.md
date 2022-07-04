@@ -1,9 +1,4 @@
----
-uuid: b956297d-c512-43fb-887e-f2c4eb0f8aa6
-name: 'Introduction to var, let, and const'
-type: 'Assignment'
-duration: 90
----
+
 
 JavaScript often has many ways of accomplishing a task. For example, we can create a variable using `let`, `var`, or `const`. In this exercise, we will get an introduction to the difference between using `let`, `var`, and `const` to create variables; and when each one is appropriate to use.
 

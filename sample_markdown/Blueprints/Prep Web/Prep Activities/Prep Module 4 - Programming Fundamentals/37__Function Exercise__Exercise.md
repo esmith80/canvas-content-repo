@@ -1,9 +1,4 @@
----
-uuid: f9ca7d4d-a6a3-4ed1-bfe0-b071d3989382
-name: 'Odd Checker'
-type: 'Assignment'
-duration: 30
----
+
 
 Canada Post is making an effort to ensure the safety of their postal workers. They are implementing a new tactic to reduce how many times a postal worker has to cross a road. They will be sorting all undelivered mail into two piles, mail going to even numbered addresses, and mail going to odd numbered addresses. Then one worker can deliver even mail, while another delivers odd mail, meaning they never have to cross the road. 
 

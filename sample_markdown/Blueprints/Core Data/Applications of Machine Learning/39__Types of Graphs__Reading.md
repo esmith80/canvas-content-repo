@@ -1,7 +1,4 @@
----
-uuid: 0420ee8a-0d5e-4656-811f-364c5e4b1090
-duration: 10
----
+
 
 This video will introduce different types of graphs.
 

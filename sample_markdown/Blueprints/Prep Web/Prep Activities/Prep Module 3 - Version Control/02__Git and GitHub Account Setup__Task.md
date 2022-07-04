@@ -1,7 +1,4 @@
----
-uuid: d8308ffb-eaae-4c2f-8fb1-6fe161ba4df3
-duration: 30
----
+
 
 You've set up your Vagrant Virtual Machine which serves as your development box. It comes with git installed but you still need to set it up with your GitHub credentials so that you can push to your repositories on GitHub. That's all we're going to do here.
 

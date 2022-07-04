@@ -1,7 +1,4 @@
----
-uuid: 3a54a46f-bded-4ccb-8e1c-abb3c67f7c18
-duration: 30
----
+
 
 In this exercise, we will focus on **JupyterLab**. We will get familiar with the environment and learn different tricks that can simplify our workflow.
 

@@ -1,9 +1,4 @@
----
-uuid: ce8708d2-f53e-44d1-ac5e-8820b1462214
-name: 'Learning at Lighthouse Labs'
-type: 'Reading'
-duration: 20
----
+
 
 
 Still not sure if a Lighthouse Labs program is right for you? 

@@ -1,7 +1,4 @@
----
-uuid: 5ae5fa38-50ab-4ead-9e5c-eaff0001b557
-duration: 30
----
+
 
 In this section, we will dive deeper into JupyterLab, more precisely to its `extensions`, which can be very useful in different areas of data science.
 

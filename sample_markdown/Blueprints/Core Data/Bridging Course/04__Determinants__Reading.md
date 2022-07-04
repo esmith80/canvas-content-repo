@@ -1,8 +1,4 @@
----
-uuid: d69008e8-2629-46c7-bbeb-c5d781e5d39f
-duration: 60
-stretch: true
----
+
 
 Let's now take a closer look at _Determinants_.
 

@@ -1,7 +1,4 @@
----
-uuid: b6ad4343-3dc5-4116-ade8-05512d77dbe7
-duration: 15
----
+
 
 
 Starting with the exercises in this module, we're going to be writing Python files and committing them to a new Git repository to keep track of them all and to submit the work.

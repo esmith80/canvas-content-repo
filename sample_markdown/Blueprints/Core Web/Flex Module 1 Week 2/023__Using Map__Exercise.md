@@ -1,8 +1,4 @@
----
-uuid: 90bcdb2e-2e57-47f4-a10f-0a5645507bbe
-duration: 30
-tags: focal
----
+
 
 Let's play with a popular higher-order function `map` in order to get more comfortable calling higher-order functions with callbacks.
 

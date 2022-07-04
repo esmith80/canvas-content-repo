@@ -1,7 +1,4 @@
----
-uuid: e5d960a8-044a-4d42-8f11-be75f4a83f5a
-duration: 20
----
+
 
 
 We are going to do different operations with numbers, e.g. floats and ints. These operations are quite straightforward because addition will always be addition no matter which programming language we use. The same goes for other operations.

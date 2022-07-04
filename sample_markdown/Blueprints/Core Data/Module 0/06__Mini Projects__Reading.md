@@ -1,7 +1,4 @@
----
-uuid: 1d00690a-1e95-4519-9a96-8cd10a91d55d
-duration: 10
----
+
 
 ## What are Mini Projects?
 During this program, you will have several opportunities solve a problem using a combination of tools and concepts. In addition to your mid term project and final project, we have created 5 mini projects. 

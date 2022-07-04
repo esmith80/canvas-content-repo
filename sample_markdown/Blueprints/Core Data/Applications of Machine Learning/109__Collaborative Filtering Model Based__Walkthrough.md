@@ -1,7 +1,4 @@
----
-uuid: 6141a61b-861a-42b2-aa5e-c94ac55be2a1
-duration: 60
----
+
 
 In the previous tutorial, we were working on `Memory-based Collaborative filtering` with `Python`. Now, we are going to explore a new library called `Scikit-Surprise`.
 

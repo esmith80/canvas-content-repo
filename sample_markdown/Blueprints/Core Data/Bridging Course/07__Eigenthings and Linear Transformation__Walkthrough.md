@@ -1,7 +1,4 @@
----
-uuid: d83e123e-88f8-4e22-98fe-f889b77ee55c
-duration: 60
----
+
 
 In this exercise, we will put to practice the new concepts from linear algebra that we've learned. We will start by _the linear transformation_ and then move on to computing _eigenvectors_ and _eigenvalues_ with `Numpy`. We will elaborate on the idea that we can look at a matrix as a _linear transformation_ and that applying a matrix to its _eigenvectors_ produces new vectors with the same direction. As a bonus, we will also see how to visualize _linear transformations_ in `Python`!
 

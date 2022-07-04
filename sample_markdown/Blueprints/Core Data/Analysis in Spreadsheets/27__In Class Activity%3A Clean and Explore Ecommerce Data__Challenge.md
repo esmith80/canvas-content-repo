@@ -1,7 +1,4 @@
----
-uuid: d6edf3b8-632e-4a61-8128-558f6cf1ef39
-duration: 20
----
+
 
 ## The Scenario
 

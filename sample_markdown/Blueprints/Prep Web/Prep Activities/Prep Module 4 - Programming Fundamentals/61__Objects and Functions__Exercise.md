@@ -1,9 +1,4 @@
----
-uuid: 3692e1a5-c6ba-4eb8-969c-dfb9d99db3ec
-name: 'Objects and Functions'
-type: 'Assignment'
-duration: 180
----
+
 
 We've touched on objects and functions a bit, but given their prominence and importance, it's time to practice these even more.
 

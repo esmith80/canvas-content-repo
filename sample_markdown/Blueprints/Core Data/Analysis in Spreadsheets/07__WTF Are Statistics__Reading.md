@@ -1,8 +1,4 @@
----
-uuid: b1781cfb-07a0-44ba-b2a9-fc1e2bcc3570
-duration: 10
-name: "What Are Statistics?"
----
+
 
 ## What are Statistics?
 **Statistics** is a collection of principles and parameters for gaining information in order to make decisions when faced with uncertainty. It is a fact or piece of data from a study of a large quantity of numerical data.

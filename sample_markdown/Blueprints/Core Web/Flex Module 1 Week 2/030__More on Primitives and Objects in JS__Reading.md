@@ -1,9 +1,4 @@
----
-uuid: ea6df177-5ab1-4987-87f0-fa7753ffe65e
-tags: focal
-duration: 15
-stretch: true
----
+
 
 In a previous reading titled [Primitive Data Types](/ab07e19a-79dd-496a-9fb9-cf82209170b4), we learned about primitive data types. We also alluded to some more interesting JavaScript-specific quirks related to them some of which are covered in the reading below.
 

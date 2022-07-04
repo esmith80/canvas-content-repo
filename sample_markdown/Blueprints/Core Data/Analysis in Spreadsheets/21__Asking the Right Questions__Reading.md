@@ -1,6 +1,4 @@
----
-uuid: fb6a335b-b605-4571-ac66-a0e158ffcfcc
----
+
 
 Before we can start collecting data there are a few things we need to do. The Data Analysis process really starts with asking the right questions. 
 

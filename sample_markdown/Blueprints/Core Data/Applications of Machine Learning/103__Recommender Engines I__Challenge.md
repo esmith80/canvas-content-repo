@@ -1,7 +1,4 @@
----
-uuid: 61783d22-0307-4bf1-9f29-61954d945508
-duration: 180
----
+
 
 Let's put all the information together and **build a complex recommender engine**. We're going to create a content based algorithm using Word2Vec and NLP.
 
