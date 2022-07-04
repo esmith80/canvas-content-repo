@@ -1,0 +1,93 @@
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/002__The Dev Workflow__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/001__Welcome and Introductions__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/009__Linting and ESLint Setup__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/007__So what's a gist, anyway?__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/003__Organizing Our Code__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/007__So what's a gist%2C anyway?__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/001__Welcome and Introductions__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/002__The Dev Workflow__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/003__Organizing Our Code__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/007__So what's a gist%2C anyway%3F__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/008__What should I do for Lunch%3F__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/009__Linting and ESLint Setup__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/010__Linting Our Lunch__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/011__Git, Markdown, and the Dev Workflow__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/012__Command Line Args__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/013__Adding Numbers__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/014__Welcome to Lotide__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/015__Make Lotide Directory__Task.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/016__Implement assertEqual__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/017__ES6 Template Literals__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/018__Improve assertEqual__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/019__Implement head__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/020__Implement tail__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/021__Quizzes this Week__Note.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/022__Intro to Programming__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/023__A Reminder to Ask for Help__Note.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/024__Peer Mentoring__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/025__Reversing a String__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/026__Pig Latin Translator__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/027__Loopy Lighthouse Refactor__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/029__Minimum Values__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/031__How to Solve Programming Problems__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/032__Joining Concepts__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/033__Function Best Practices - Introduction__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/034__Function Best Practices - Rolling Dice__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/035__Scope in Javascript__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/036__Getting Comfortable with Error Messages__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/037__Debugging Errors__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/038__Fixing Buggy Code Part 1 - Console Logs__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/039__Coercion and Truthy%2FFalsey__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/040__Functions, Variables and Debugging__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/041__Implement eqArrays__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/042__Implement assertArraysEqual__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/043__Implement without__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/044__Password Obfuscator__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/045__Implement flatten__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/046__Debugging Incorrect Code I__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/047__Debugging Incorrect Code II__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/048__Debugging Incorrect Code III__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/049__Function Best Practices - Refactor I__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/050__Password Obfuscator Refactor__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/051__Important keyboard shortcuts__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/052__Project__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 1/053__Feedback__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/001__Callbacks__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/002__Objects in JS__Lecture.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/003__Implement middle__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/004__Primitive Data Types__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/006__Objects - Basic Concepts__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/007__Objects - Iteration__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/008__Implement countOnly in Lotide__Practice.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/009__Character Counting__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/010__Character Positioning__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/011__Implement findKeyByValue in Lotide__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/012__Implement eqObjects__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/013__Implement assertObjectsEqual__Problem.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/014__Objects__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/014b__Create objects Directory__Task.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/015__Pair Programming - Raisin' Arizona__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/017__Callbacks - Introduction__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/018__Anonymous Functions__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/019__Arrow Functions__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/020__First Class Functions__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/021__Filtering With Callbacks__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/022__Higher Order Functions__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/023__Using Map__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/024__Callbacks - Map__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/025__Callbacks__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/026__Implement takeUntil__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/027__Implement findKey__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/028__First date with Vim__Walkthrough.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/030__More on Primitives and Objects in JS__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/031__Objects - Sales Tax__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/032__Social Network Analysis - Part I__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/033__Pythorean using Map__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/034__Callbacks - Custom Sorting__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/035__Prep Katas Revisit__Challenge.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/036__Closures__Reading.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/037__Using Closures__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/038__Using Closures II__Exercise.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/039__Closures__Quiz.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/040__Lotide Assignment __Note.md
+https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core Web/Flex Module 1 Week 2/041__Pair Programming__Note.md

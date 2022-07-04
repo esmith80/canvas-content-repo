@@ -12,7 +12,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/342
     url: http://canvas.docker/api/v1/courses/14/assignments/926
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/013__Adding%20Numbers__Exercise.md
   - id: '977'
     title: Anonymous Functions - Reading
     indent: 0
@@ -20,7 +20,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/343
     url: http://canvas.docker/api/v1/courses/14/assignments/977
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/018__Anonymous%20Functions__Reading.md
   - id: '992'
     title: Callbacks - Custom Sorting - Exercise
     indent: 0
@@ -28,7 +28,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/344
     url: http://canvas.docker/api/v1/courses/14/assignments/992
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/034__Callbacks%20-%20Custom%20Sorting__Exercise.md
   - id: '983'
     title: Callbacks - Map - Exercise
     indent: 0
@@ -36,7 +36,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/345
     url: http://canvas.docker/api/v1/courses/14/assignments/983
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/024__Callbacks%20-%20Map__Exercise.md
   - id: '976'
     title: Callbacks - Introduction - Exercise
     indent: 0
@@ -44,7 +44,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/346
     url: http://canvas.docker/api/v1/courses/14/assignments/976
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/017__Callbacks%20-%20Introduction__Exercise.md
   - id: '984'
     title: Callbacks - Quiz
     indent: 0
@@ -52,7 +52,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/347
     url: http://canvas.docker/api/v1/courses/14/assignments/984
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/025__Callbacks__Quiz.md
   - id: '978'
     title: Arrow Functions - Exercise
     indent: 0
@@ -60,7 +60,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/350
     url: http://canvas.docker/api/v1/courses/14/assignments/978
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/019__Arrow%20Functions__Exercise.md
   - id: '968'
     title: Character Counting - Problem
     indent: 0
@@ -68,7 +68,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/348
     url: http://canvas.docker/api/v1/courses/14/assignments/968
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/009__Character%20Counting__Problem.md
   - id: '969'
     title: Character Positioning - Problem
     indent: 0
@@ -76,7 +76,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/349
     url: http://canvas.docker/api/v1/courses/14/assignments/969
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/010__Character%20Positioning__Problem.md
   - id: '997'
     title: Closures - Quiz
     indent: 0
@@ -84,7 +84,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/352
     url: http://canvas.docker/api/v1/courses/14/assignments/997
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/039__Closures__Quiz.md
   - id: '994'
     title: Closures - Reading
     indent: 0
@@ -92,7 +92,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/351
     url: http://canvas.docker/api/v1/courses/14/assignments/994
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/036__Closures__Reading.md
   - id: '948'
     title: Coercion and Truthy%252FFalsey - Reading
     indent: 0
@@ -100,7 +100,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/353
     url: http://canvas.docker/api/v1/courses/14/assignments/948
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/039__Coercion%20and%20Truthy%252FFalsey__Reading.md
   - id: '925'
     title: Command Line Args - Walkthrough
     indent: 0
@@ -108,7 +108,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/355
     url: http://canvas.docker/api/v1/courses/14/assignments/925
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/012__Command%20Line%20Args__Walkthrough.md
   - id: '974'
     title: Create objects Directory - Task
     indent: 0
@@ -116,7 +116,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/354
     url: http://canvas.docker/api/v1/courses/14/assignments/974
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/014b__Create%20objects%20Directory__Task.md
   - id: '946'
     title: Debugging Errors - Exercise
     indent: 0
@@ -124,7 +124,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/356
     url: http://canvas.docker/api/v1/courses/14/assignments/946
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/037__Debugging%20Errors__Exercise.md
   - id: '955'
     title: Debugging Incorrect Code I - Exercise
     indent: 0
@@ -132,7 +132,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/357
     url: http://canvas.docker/api/v1/courses/14/assignments/955
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/046__Debugging%20Incorrect%20Code%20I__Exercise.md
   - id: '956'
     title: Debugging Incorrect Code II - Exercise
     indent: 0
@@ -140,7 +140,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/358
     url: http://canvas.docker/api/v1/courses/14/assignments/956
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/047__Debugging%20Incorrect%20Code%20II__Exercise.md
   - id: '957'
     title: Debugging Incorrect Code III - Exercise
     indent: 0
@@ -148,7 +148,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/359
     url: http://canvas.docker/api/v1/courses/14/assignments/957
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/048__Debugging%20Incorrect%20Code%20III__Exercise.md
   - id: '930'
     title: ES6 Template Literals - Reading
     indent: 0
@@ -156,7 +156,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/360
     url: http://canvas.docker/api/v1/courses/14/assignments/930
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/017__ES6%20Template%20Literals__Reading.md
   - id: '962'
     title: Feedback - Exercise
     indent: 0
@@ -164,7 +164,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/361
     url: http://canvas.docker/api/v1/courses/14/assignments/962
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/053__Feedback__Exercise.md
   - id: '980'
     title: Filtering With Callbacks - Exercise
     indent: 0
@@ -172,7 +172,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/362
     url: http://canvas.docker/api/v1/courses/14/assignments/980
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/021__Filtering%20With%20Callbacks__Exercise.md
   - id: '979'
     title: First Class Functions - Quiz
     indent: 0
@@ -180,7 +180,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/363
     url: http://canvas.docker/api/v1/courses/14/assignments/979
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/020__First%20Class%20Functions__Quiz.md
   - id: '987'
     title: First date with Vim - Walkthrough
     indent: 0
@@ -188,7 +188,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/364
     url: http://canvas.docker/api/v1/courses/14/assignments/987
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/028__First%20date%20with%20Vim__Walkthrough.md
   - id: '947'
     title: Fixing Buggy Code Part 1 - Console Logs - Reading
     indent: 0
@@ -196,7 +196,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/365
     url: http://canvas.docker/api/v1/courses/14/assignments/947
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/038__Fixing%20Buggy%20Code%20Part%201%20-%20Console%20Logs__Reading.md
   - id: '942'
     title: Function Best Practices - Introduction - Reading
     indent: 0
@@ -204,7 +204,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/367
     url: http://canvas.docker/api/v1/courses/14/assignments/942
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/033__Function%20Best%20Practices%20-%20Introduction__Reading.md
   - id: '958'
     title: Function Best Practices - Refactor I - Problem
     indent: 0
@@ -212,7 +212,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/366
     url: http://canvas.docker/api/v1/courses/14/assignments/958
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/049__Function%20Best%20Practices%20-%20Refactor%20I__Problem.md
   - id: '943'
     title: Function Best Practices - Rolling Dice - Problem
     indent: 0
@@ -220,7 +220,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/368
     url: http://canvas.docker/api/v1/courses/14/assignments/943
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/034__Function%20Best%20Practices%20-%20Rolling%20Dice__Problem.md
   - id: '949'
     title: Functions, Variables and Debugging - Quiz
     indent: 0
@@ -228,7 +228,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/370
     url: http://canvas.docker/api/v1/courses/14/assignments/949
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/040__Functions,%20Variables%20and%20Debugging__Quiz.md
   - id: '945'
     title: Getting Comfortable with Error Messages - Reading
     indent: 0
@@ -236,7 +236,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/371
     url: http://canvas.docker/api/v1/courses/14/assignments/945
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/036__Getting%20Comfortable%20with%20Error%20Messages__Reading.md
   - id: '924'
     title: Git, Markdown, and the Dev Workflow - Exercise
     indent: 0
@@ -244,7 +244,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/369
     url: http://canvas.docker/api/v1/courses/14/assignments/924
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/011__Git,%20Markdown,%20and%20the%20Dev%20Workflow__Exercise.md
   - id: '981'
     title: Higher Order Functions - Reading
     indent: 0
@@ -252,7 +252,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/372
     url: http://canvas.docker/api/v1/courses/14/assignments/981
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/022__Higher%20Order%20Functions__Reading.md
   - id: '940'
     title: How to Solve Programming Problems - Reading
     indent: 0
@@ -260,7 +260,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/374
     url: http://canvas.docker/api/v1/courses/14/assignments/940
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/031__How%20to%20Solve%20Programming%20Problems__Reading.md
   - id: '951'
     title: Implement assertArraysEqual - Problem
     indent: 0
@@ -268,7 +268,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/373
     url: http://canvas.docker/api/v1/courses/14/assignments/951
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/042__Implement%20assertArraysEqual__Problem.md
   - id: '929'
     title: Implement assertEqual - Walkthrough
     indent: 0
@@ -276,7 +276,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/376
     url: http://canvas.docker/api/v1/courses/14/assignments/929
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/016__Implement%20assertEqual__Walkthrough.md
   - id: '972'
     title: Implement assertObjectsEqual - Problem
     indent: 0
@@ -284,7 +284,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/375
     url: http://canvas.docker/api/v1/courses/14/assignments/972
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/013__Implement%20assertObjectsEqual__Problem.md
   - id: '967'
     title: Implement countOnly in Lotide - Practice
     indent: 0
@@ -292,7 +292,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/377
     url: http://canvas.docker/api/v1/courses/14/assignments/967
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/008__Implement%20countOnly%20in%20Lotide__Practice.md
   - id: '950'
     title: Implement eqArrays - Problem
     indent: 0
@@ -300,7 +300,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/378
     url: http://canvas.docker/api/v1/courses/14/assignments/950
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/041__Implement%20eqArrays__Problem.md
   - id: '971'
     title: Implement eqObjects - Problem
     indent: 0
@@ -308,7 +308,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/379
     url: http://canvas.docker/api/v1/courses/14/assignments/971
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/012__Implement%20eqObjects__Problem.md
   - id: '986'
     title: Implement findKey - Challenge
     indent: 0
@@ -316,7 +316,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/380
     url: http://canvas.docker/api/v1/courses/14/assignments/986
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/027__Implement%20findKey__Challenge.md
   - id: '970'
     title: Implement findKeyByValue in Lotide - Problem
     indent: 0
@@ -324,7 +324,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/382
     url: http://canvas.docker/api/v1/courses/14/assignments/970
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/011__Implement%20findKeyByValue%20in%20Lotide__Problem.md
   - id: '954'
     title: Implement flatten - Problem
     indent: 0
@@ -332,7 +332,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/381
     url: http://canvas.docker/api/v1/courses/14/assignments/954
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/045__Implement%20flatten__Problem.md
   - id: '932'
     title: Implement head - Challenge
     indent: 0
@@ -340,7 +340,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/383
     url: http://canvas.docker/api/v1/courses/14/assignments/932
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/019__Implement%20head__Challenge.md
   - id: '963'
     title: Implement middle - Problem
     indent: 0
@@ -348,7 +348,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/385
     url: http://canvas.docker/api/v1/courses/14/assignments/963
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/003__Implement%20middle__Problem.md
   - id: '933'
     title: Implement tail - Challenge
     indent: 0
@@ -356,7 +356,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/384
     url: http://canvas.docker/api/v1/courses/14/assignments/933
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/020__Implement%20tail__Challenge.md
   - id: '985'
     title: Implement takeUntil - Challenge
     indent: 0
@@ -364,7 +364,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/386
     url: http://canvas.docker/api/v1/courses/14/assignments/985
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/026__Implement%20takeUntil__Challenge.md
   - id: '952'
     title: Implement without - Problem
     indent: 0
@@ -372,7 +372,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/389
     url: http://canvas.docker/api/v1/courses/14/assignments/952
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/043__Implement%20without__Problem.md
   - id: '931'
     title: Improve assertEqual - Challenge
     indent: 0
@@ -380,7 +380,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/387
     url: http://canvas.docker/api/v1/courses/14/assignments/931
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/018__Improve%20assertEqual__Challenge.md
   - id: '960'
     title: Important keyboard shortcuts - Exercise
     indent: 0
@@ -388,7 +388,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/388
     url: http://canvas.docker/api/v1/courses/14/assignments/960
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/051__Important%20keyboard%20shortcuts__Exercise.md
   - id: '934'
     title: Intro to Programming - Quiz
     indent: 0
@@ -396,7 +396,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/390
     url: http://canvas.docker/api/v1/courses/14/assignments/934
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/022__Intro%20to%20Programming__Quiz.md
   - id: '941'
     title: Joining Concepts - Problem
     indent: 0
@@ -404,7 +404,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/391
     url: http://canvas.docker/api/v1/courses/14/assignments/941
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/032__Joining%20Concepts__Problem.md
   - id: '917'
     title: Linting and ESLint Setup - Exercise
     indent: 0
@@ -412,7 +412,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/392
     url: http://canvas.docker/api/v1/courses/14/assignments/917
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/009__Linting%20and%20ESLint%20Setup__Exercise.md
   - id: '922'
     title: Linting and ESLint Setup - Exercise
     indent: 0
@@ -420,7 +420,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/393
     url: http://canvas.docker/api/v1/courses/14/assignments/922
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/009__Linting%20and%20ESLint%20Setup__Exercise.md
   - id: '923'
     title: Linting Our Lunch - Challenge
     indent: 0
@@ -428,7 +428,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/394
     url: http://canvas.docker/api/v1/courses/14/assignments/923
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/010__Linting%20Our%20Lunch__Challenge.md
   - id: '938'
     title: Loopy Lighthouse Refactor - Problem
     indent: 0
@@ -436,7 +436,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/395
     url: http://canvas.docker/api/v1/courses/14/assignments/938
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/027__Loopy%20Lighthouse%20Refactor__Problem.md
   - id: '928'
     title: Make Lotide Directory - Task
     indent: 0
@@ -444,7 +444,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/396
     url: http://canvas.docker/api/v1/courses/14/assignments/928
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/015__Make%20Lotide%20Directory__Task.md
   - id: '939'
     title: Minimum Values - Challenge
     indent: 0
@@ -452,7 +452,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/397
     url: http://canvas.docker/api/v1/courses/14/assignments/939
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/029__Minimum%20Values__Challenge.md
   - id: '988'
     title: More on Primitives and Objects in JS - Reading
     indent: 0
@@ -460,7 +460,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/398
     url: http://canvas.docker/api/v1/courses/14/assignments/988
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/030__More%20on%20Primitives%20and%20Objects%20in%20JS__Reading.md
   - id: '965'
     title: Objects - Basic Concepts - Reading
     indent: 0
@@ -468,7 +468,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/399
     url: http://canvas.docker/api/v1/courses/14/assignments/965
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/006__Objects%20-%20Basic%20Concepts__Reading.md
   - id: '966'
     title: Objects - Iteration - Reading
     indent: 0
@@ -476,7 +476,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/400
     url: http://canvas.docker/api/v1/courses/14/assignments/966
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/007__Objects%20-%20Iteration__Reading.md
   - id: '973'
     title: Objects - Quiz
     indent: 0
@@ -484,7 +484,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/402
     url: http://canvas.docker/api/v1/courses/14/assignments/973
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/014__Objects__Quiz.md
   - id: '989'
     title: Objects - Sales Tax - Challenge
     indent: 0
@@ -492,7 +492,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/401
     url: http://canvas.docker/api/v1/courses/14/assignments/989
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/031__Objects%20-%20Sales%20Tax__Challenge.md
   - id: '919'
     title: Organizing Our Code - Walkthrough
     indent: 0
@@ -500,7 +500,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/404
     url: http://canvas.docker/api/v1/courses/14/assignments/919
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/003__Organizing%20Our%20Code__Walkthrough.md
   - id: '920'
     title: Organizing Our Code - Walkthrough
     indent: 0
@@ -508,7 +508,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/403
     url: http://canvas.docker/api/v1/courses/14/assignments/920
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/003__Organizing%20Our%20Code__Walkthrough.md
   - id: '975'
     title: Pair Programming - Raisin%27 Arizona - Challenge
     indent: 0
@@ -516,7 +516,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/405
     url: http://canvas.docker/api/v1/courses/14/assignments/975
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/015__Pair%20Programming%20-%20Raisin%27%20Arizona__Challenge.md
   - id: '953'
     title: Password Obfuscator - Problem
     indent: 0
@@ -524,7 +524,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/406
     url: http://canvas.docker/api/v1/courses/14/assignments/953
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/044__Password%20Obfuscator__Problem.md
   - id: '959'
     title: Password Obfuscator Refactor - Problem
     indent: 0
@@ -532,7 +532,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/408
     url: http://canvas.docker/api/v1/courses/14/assignments/959
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/050__Password%20Obfuscator%20Refactor__Problem.md
   - id: '935'
     title: Peer Mentoring - Reading
     indent: 0
@@ -540,7 +540,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/407
     url: http://canvas.docker/api/v1/courses/14/assignments/935
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/024__Peer%20Mentoring__Reading.md
   - id: '937'
     title: Pig Latin Translator - Problem
     indent: 0
@@ -548,7 +548,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/410
     url: http://canvas.docker/api/v1/courses/14/assignments/937
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/026__Pig%20Latin%20Translator__Problem.md
   - id: '993'
     title: Prep Katas Revisit - Challenge
     indent: 0
@@ -556,7 +556,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/411
     url: http://canvas.docker/api/v1/courses/14/assignments/993
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/035__Prep%20Katas%20Revisit__Challenge.md
   - id: '964'
     title: Primitive Data Types - Reading
     indent: 0
@@ -564,7 +564,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/409
     url: http://canvas.docker/api/v1/courses/14/assignments/964
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/004__Primitive%20Data%20Types__Reading.md
   - id: '961'
     title: Project - Reading
     indent: 0
@@ -572,7 +572,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/414
     url: http://canvas.docker/api/v1/courses/14/assignments/961
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/052__Project__Reading.md
   - id: '991'
     title: Pythorean using Map - Challenge
     indent: 0
@@ -580,7 +580,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/412
     url: http://canvas.docker/api/v1/courses/14/assignments/991
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/033__Pythorean%20using%20Map__Challenge.md
   - id: '936'
     title: Reversing a String - Problem
     indent: 0
@@ -588,7 +588,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/413
     url: http://canvas.docker/api/v1/courses/14/assignments/936
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/025__Reversing%20a%20String__Problem.md
   - id: '944'
     title: Scope in Javascript - Reading
     indent: 0
@@ -596,7 +596,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/415
     url: http://canvas.docker/api/v1/courses/14/assignments/944
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/035__Scope%20in%20Javascript__Reading.md
   - id: '990'
     title: Social Network Analysis - Part I - Challenge
     indent: 0
@@ -604,7 +604,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/416
     url: http://canvas.docker/api/v1/courses/14/assignments/990
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/032__Social%20Network%20Analysis%20-%20Part%20I__Challenge.md
   - id: '918'
     title: So what is a gist, anyway? - Reading
     indent: 0
@@ -612,7 +612,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/417
     url: http://canvas.docker/api/v1/courses/14/assignments/918
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/007__So%20what%27s%20a%20gist,%20anyway%3F__Reading.md
   - id: '995'
     title: Using Closures - Exercise
     indent: 0
@@ -620,7 +620,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/418
     url: http://canvas.docker/api/v1/courses/14/assignments/995
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/037__Using%20Closures__Exercise.md
   - id: '996'
     title: Using Closures II - Exercise
     indent: 0
@@ -628,7 +628,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/420
     url: http://canvas.docker/api/v1/courses/14/assignments/996
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/038__Using%20Closures%20II__Exercise.md
   - id: '982'
     title: Using Map - Exercise
     indent: 0
@@ -636,7 +636,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/419
     url: http://canvas.docker/api/v1/courses/14/assignments/982
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/023__Using%20Map__Exercise.md
   - id: '927'
     title: Welcome to Lotide - Reading
     indent: 0
@@ -644,7 +644,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/421
     url: http://canvas.docker/api/v1/courses/14/assignments/927
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/014__Welcome%20to%20Lotide__Reading.md
   - id: '921'
     title: What should I do for Lunch%253F - Exercise
     indent: 0
@@ -652,7 +652,7 @@
     html_url: http://canvas.docker/courses/14/modules/items/422
     url: http://canvas.docker/api/v1/courses/14/assignments/921
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/008__What%20should%20I%20do%20for%20Lunch%253F__Exercise.md
 - :id: 38
   :name: Web Blueprint - All Pages
   :lessons:
@@ -664,7 +664,7 @@
     page_url: a-reminder-to-ask-for-help-note
     url: http://canvas.docker/api/v1/courses/14/pages/a-reminder-to-ask-for-help-note
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/023__A%20Reminder%20to%20Ask%20for%20Help__Note.md
   - id: callbacks-lecture
     title: Callbacks - Lecture
     indent: 0
@@ -673,7 +673,7 @@
     page_url: callbacks-lecture
     url: http://canvas.docker/api/v1/courses/14/pages/callbacks-lecture
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/001__Callbacks__Lecture.md
   - id: lotide-assignment-note
     title: Lotide Assignment  - Note
     indent: 0
@@ -682,7 +682,7 @@
     page_url: lotide-assignment-note
     url: http://canvas.docker/api/v1/courses/14/pages/lotide-assignment-note
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/040__Lotide%20Assignment%20__Note.md
   - id: objects-in-js-lecture
     title: Objects in JS - Lecture
     indent: 0
@@ -691,7 +691,7 @@
     page_url: objects-in-js-lecture
     url: http://canvas.docker/api/v1/courses/14/pages/objects-in-js-lecture
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/002__Objects%20in%20JS__Lecture.md
   - id: pair-programming-note
     title: Pair Programming - Note
     indent: 0
@@ -700,7 +700,7 @@
     page_url: pair-programming-note
     url: http://canvas.docker/api/v1/courses/14/pages/pair-programming-note
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%202/041__Pair%20Programming__Note.md
   - id: quizzes-this-week-note
     title: Quizzes this Week - Note
     indent: 0
@@ -709,7 +709,7 @@
     page_url: quizzes-this-week-note
     url: http://canvas.docker/api/v1/courses/14/pages/quizzes-this-week-note
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/021__Quizzes%20this%20Week__Note.md
   - id: the-dev-workflow-lecture
     title: The Dev Workflow - Lecture
     indent: 0
@@ -718,7 +718,7 @@
     page_url: the-dev-workflow-lecture
     url: http://canvas.docker/api/v1/courses/14/pages/the-dev-workflow-lecture
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/002__The%20Dev%20Workflow__Lecture.md
   - id: welcome-and-introductions-lecture
     title: Welcome and Introductions - Lecture
     indent: 0
@@ -727,4 +727,4 @@
     page_url: welcome-and-introductions-lecture
     url: http://canvas.docker/api/v1/courses/14/pages/welcome-and-introductions-lecture
     published: false
-    repository: ''
+    repository: https://github.com/esmith80/canvas-content-repo/blob/master/sample_markdown/Blueprints/Core%20Web/Flex%20Module%201%20Week%201/001__Welcome%20and%20Introductions__Lecture.md

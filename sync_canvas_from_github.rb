@@ -1,9 +1,9 @@
 def create_lessons
-  File.open(file_path.to_s, 'r') do |f|
+  File.open(@file_path.to_s, 'r') do |f|
     f.each_line do |path|  
       @path = clean_path(path)
       # is there a flag for submission type?
-      cmd = "github-to-canvas --create-from-github #{@path} --course #{course_id} --type #{lesson_type} --name #{lesson_name} -lr --forkable"
+      cmd = "github-to-canvas --create-from-github #{@path} --course #{@course_id} --type #{lesson_type} --name #{lesson_name} -lr --forkable"
       system(cmd)
     end
   end
@@ -76,9 +76,9 @@ def prompt_user
   # operation = gets.chomp
   
   # for quick tests, uncomment this and comment out above
-  @file_path = 'github_filenames_web copy.txt'
-  @course_id = 12
-  operation = 'u'
+  @file_path = 'github_filenamesJuly3.txt'
+  @course_id = 14
+  operation = 'c'
 
   operation == 'c' ? create_lessons : update_lessons
 end
